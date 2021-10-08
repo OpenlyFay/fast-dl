@@ -10,7 +10,7 @@ This is a fast-download for my Team Fortress 2 Sourcemod servers.
 
 [dm_gasworks_final by nunozki](https://gamebanana.com/mods/151097)
 
-[dm_gasworks_final by nunozki](https://tf2maps.net/downloads/imperial.11859/)
+[dm_imperial by fossil](https://tf2maps.net/downloads/imperial.11859/)
 
 [dm_kong_king_v7 by JustSparky](https://gamebanana.com/mods/151104)
 
