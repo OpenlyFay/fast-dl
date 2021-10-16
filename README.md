@@ -18,6 +18,8 @@ This is a fast-download for my Team Fortress 2 Sourcemod servers.
 
 [dm_trainyard by jan](https://gamebanana.com/mods/313810)
 
+[duel_tremor by fossil](https://tf2maps.net/downloads/tremor.11906/)
+
 [duel_well by ficool2 and Maggots65](https://gamebanana.com/mods/151048)
 
 
