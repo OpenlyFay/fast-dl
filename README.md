@@ -16,6 +16,8 @@ This is a fast-download for my Team Fortress 2 Sourcemod servers.
 
 [dm_kong_king_v7 by JustSparky](https://gamebanana.com/mods/151104)
 
+[dm_monthu_a1 by fossil] (https://tf2maps.net/downloads/monthu.12586/)
+
 [dm_renegade_a1 by llanstoloq](https://gamebanana.com/mods/298546)
 
 [dm_trainyard by jan](https://gamebanana.com/mods/313810)
