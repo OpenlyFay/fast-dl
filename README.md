@@ -8,6 +8,8 @@ This is a fast-download for my Team Fortress 2 Sourcemod servers.
 
 [dm_bananabay by Krazy](https://gamebanana.com/mods/308878)
 
+[dm_chateau by Applecakey](https://tf2maps.net/downloads/chateau.12715/)
+
 [dm_decoy by jan](https://gamebanana.com/mods/308687)
 
 [dm_gasworks_final by nunozki](https://gamebanana.com/mods/151097)
@@ -18,9 +20,19 @@ This is a fast-download for my Team Fortress 2 Sourcemod servers.
 
 [dm_monthu_a1 by fossil](https://tf2maps.net/downloads/monthu.12586/)
 
-[dm_renegade_a1 by llanstoloq](https://gamebanana.com/mods/298546)
+[dm_renegade_a1 by Jameson](https://gamebanana.com/mods/298546)
 
 [dm_trainyard by jan](https://gamebanana.com/mods/313810)
+
+[duel_catalyst_v2 by fossil](https://tf2maps.net/downloads/corrupted-keep.12607/)
+
+[duel_corruptedkeep_a1 by coolface](https://tf2maps.net/downloads/corrupted-keep.12607/)
+
+[duel_geoteknik_a3 by fossil](https://tf2maps.net/downloads/geoteknik.12689/)
+
+[duel_seawalk_a1a by fossil](https://tf2maps.net/downloads/seawalk.11966/)
+
+[duel_sloth_a1a by Jameson](https://tf2maps.net/downloads/sloth.12710/)
 
 [duel_tremor by fossil](https://tf2maps.net/downloads/tremor.11906/)
 
