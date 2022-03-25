@@ -32,6 +32,8 @@ This is a fast-download for my Team Fortress 2 Sourcemod servers.
 
 [duel_seawalk_a1a by fossil](https://tf2maps.net/downloads/seawalk.11966/)
 
+[duel_skybreak_a1a by Jameson](https://tf2maps.net/downloads/skybreak.12766/)
+
 [duel_sloth_a1a by Jameson](https://tf2maps.net/downloads/sloth.12710/)
 
 [duel_tremor by fossil](https://tf2maps.net/downloads/tremor.11906/)
