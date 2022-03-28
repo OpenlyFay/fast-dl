@@ -4,7 +4,7 @@ This is a fast-download for my Team Fortress 2 Sourcemod servers.
 <u>Open Fortress</u>
 
 
-[dm_apple_b1 by Applecakey](https://tf2maps.net/downloads/apple.11921/)
+[dm_apple_b2a and duel_apple_a2 by Applecakey](https://tf2maps.net/downloads/apple.11921/)
 
 [dm_bananabay by Krazy](https://gamebanana.com/mods/308878)
 
