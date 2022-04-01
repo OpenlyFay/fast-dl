@@ -56,7 +56,7 @@ This is a fast-download for my Team Fortress 2 Sourcemod servers.
 
 [koth_bagel_rc5 by Yrr](https://tf2maps.net/downloads/bagel-2020.5527/)
 
-[koth_forge_b4 by Tekku]([https://tf2maps.net/downloads/forge.793/)
+[koth_forge_b4 by Tekku](https://tf2maps.net/downloads/forge.793/)
 
 [koth_hangar_rc5 by Uncuepa](https://tf2maps.net/downloads/hangar.244/)
 
