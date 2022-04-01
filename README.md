@@ -46,7 +46,23 @@ This is a fast-download for my Team Fortress 2 Sourcemod servers.
 
 [arena_4well_b2 by Flipy and Suomimies55](https://gamebanana.com/mods/309922)
 
+[cp_alloy_rc3 by Yrr](https://tf2maps.net/downloads/alloy.989/)
+
 [dom_badwater by Wheat](https://gamebanana.com/mods/309956)
+
+[dom_cliffhanger_b11_tf2c by Zeql33t ported by queensizedsofa](https://gamebanana.com/mods/56223)
+
+[dom_steel by Savva](https://gamebanana.com/mods/288305)
+
+[koth_bagel_rc5 by Yrr](https://tf2maps.net/downloads/bagel-2020.5527/)
+
+[koth_forge_b4 by Tekku]([https://tf2maps.net/downloads/forge.793/)
+
+[koth_hangar_rc5 by Uncuepa](https://tf2maps.net/downloads/hangar.244/)
+
+[koth_trainsawlaser_rc2 by Crash](https://tf2maps.net/downloads/trainsawlaser.675/)
+
+[pl_operandi_a14 by Suna](https://tf2maps.net/downloads/operandi.7719/)
 
 
 
