@@ -24,6 +24,8 @@ This is a fast-download for my Team Fortress 2 Sourcemod servers.
 
 [dm_trainyard by jan](https://gamebanana.com/mods/313810)
 
+[duel_amazon_a2 by fossil](https://tf2maps.net/downloads/amazon.12811/)
+
 [duel_catalyst_v2 by fossil](https://tf2maps.net/downloads/corrupted-keep.12607/)
 
 [duel_corruptedkeep_a1 by coolface](https://tf2maps.net/downloads/corrupted-keep.12607/)
@@ -45,6 +47,8 @@ This is a fast-download for my Team Fortress 2 Sourcemod servers.
 
 
 [arena_4well_b2 by Flipy and Suomimies55](https://gamebanana.com/mods/309922)
+
+[arena_floodgate_a3 by Savva](https://gamebanana.com/mods/56265)
 
 [cp_alloy_rc3 by Yrr](https://tf2maps.net/downloads/alloy.989/)
 
