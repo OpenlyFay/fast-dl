@@ -58,13 +58,7 @@ This is a fast-download for my Team Fortress 2 Sourcemod servers.
 
 [dom_steel by Savva](https://gamebanana.com/mods/288305)
 
-[koth_bagel_rc5 by Yrr](https://tf2maps.net/downloads/bagel-2020.5527/)
-
 [koth_forge_b4 by Tekku](https://tf2maps.net/downloads/forge.793/)
-
-[koth_hangar_rc5 by Uncuepa](https://tf2maps.net/downloads/hangar.244/)
-
-[koth_trainsawlaser_rc2 by Crash](https://tf2maps.net/downloads/trainsawlaser.675/)
 
 [pl_operandi_a14 by Suna](https://tf2maps.net/downloads/operandi.7719/)
 
@@ -74,3 +68,18 @@ This is a fast-download for my Team Fortress 2 Sourcemod servers.
 
 
 [cp_well_night by Wolfcl0ck](https://gamebanana.com/mods/367118)
+
+
+
+<u>Live Team Fortress 2</u>
+
+
+[cp_sultry_b5 by PigPigk](https://tf2maps.net/downloads/cp_sultry.11328/)
+
+[koth_bagel_rc5 by Yrr](https://tf2maps.net/downloads/bagel-2020.5527/)
+
+[koth_slaughter_b2a by Void](https://tf2maps.net/downloads/slaughter.2795/)
+
+[koth_spillway_rc3a by pont](https://tf2maps.net/downloads/koth_spillway.7893/)
+
+[pd_gump_rc2 by Bakscratch](https://tf2maps.net/downloads/gump.10974/)
