@@ -82,4 +82,8 @@ This is a fast-download for my Team Fortress 2 Sourcemod servers.
 
 [koth_spillway_rc3a by pont](https://tf2maps.net/downloads/koth_spillway.7893/)
 
+[koth_trainsawlaser_rc2 by Crash](https://tf2maps.net/downloads/trainsawlaser.675/)
+
+[koth_wubwubwub_remix_vip by Crash](https://tf2maps.net/downloads/wubwubwub.735/)
+
 [pd_gump_rc2 by Bakscratch](https://tf2maps.net/downloads/gump.10974/)
