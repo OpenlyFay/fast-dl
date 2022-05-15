@@ -18,6 +18,10 @@ This is a fast-download for my Team Fortress 2 Sourcemod servers.
 
 [dm_kong_king_v7 by JustSparky](https://gamebanana.com/mods/151104)
 
+[dm_mariokartb2_b3 by Archanor](https://gamebanana.com/mods/71399)
+
+[dm_mariokart3_v1 by Archanor](https://gamebanana.com/mods/71400)
+
 [dm_monthu_a1 by fossil](https://tf2maps.net/downloads/monthu.12586/)
 
 [dm_renegade_a1 by Jameson](https://gamebanana.com/mods/298546)
@@ -75,6 +79,10 @@ This is a fast-download for my Team Fortress 2 Sourcemod servers.
 
 
 [cp_sultry_b5 by PigPigk](https://tf2maps.net/downloads/cp_sultry.11328/)
+
+[dm_mariokartb2_b3 by Archanor](https://gamebanana.com/mods/71399)
+
+[dm_mariokart3_v1 by Archanor](https://gamebanana.com/mods/71400)
 
 [koth_bagel_rc5 by Yrr](https://tf2maps.net/downloads/bagel-2020.5527/)
 
