@@ -6,6 +6,8 @@ This is a fast-download for my Team Fortress 2 Sourcemod servers.
 
 [dm_apple_b2a and duel_apple_a2 by Applecakey](https://tf2maps.net/downloads/apple.11921/)
 
+[dm_arsenic by ThatGreekAvian](https://gamebanana.com/mods/151060)
+
 [dm_bananabay by Krazy](https://gamebanana.com/mods/308878)
 
 [dm_chateau by Applecakey](https://tf2maps.net/downloads/chateau.12715/)
@@ -65,14 +67,6 @@ This is a fast-download for my Team Fortress 2 Sourcemod servers.
 [koth_forge_b4 by Tekku](https://tf2maps.net/downloads/forge.793/)
 
 [pl_operandi_a14 by Suna](https://tf2maps.net/downloads/operandi.7719/)
-
-
-
-<u>Pre-Fortress 2</u>
-
-
-[cp_well_night by Wolfcl0ck](https://gamebanana.com/mods/367118)
-
 
 
 <u>Live Team Fortress 2</u>
