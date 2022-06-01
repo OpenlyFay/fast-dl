@@ -30,7 +30,7 @@ This is a fast-download for my Team Fortress 2 Sourcemod servers.
 
 [dm_trainyard by jan](https://gamebanana.com/mods/313810)
 
-[duel_amazon_a2 by fossil](https://tf2maps.net/downloads/amazon.12811/)
+[duel_amazon_a3 by fossil](https://tf2maps.net/downloads/amazon.12811/)
 
 [duel_catalyst_v2 by fossil](https://tf2maps.net/downloads/corrupted-keep.12607/)
 
@@ -47,6 +47,8 @@ This is a fast-download for my Team Fortress 2 Sourcemod servers.
 [duel_tremor by fossil](https://tf2maps.net/downloads/tremor.11906/)
 
 [duel_well by ficool2 and Maggots65](https://gamebanana.com/mods/151048)
+
+[duel_wheatmill_a2 by fossil](https://tf2maps.net/downloads/wheatmill.12878/)
 
 
 <u>Team Fortress 2 Classic</u>
