@@ -10,6 +10,8 @@ This is a fast-download for my Team Fortress 2 Sourcemod servers.
 
 [dm_bananabay by Krazy](https://gamebanana.com/mods/308878)
 
+[dm_blacksite by PJX](https://tf2maps.net/downloads/blacksite-deathmatch.13064/)
+
 [dm_chateau by Applecakey](https://tf2maps.net/downloads/chateau.12715/)
 
 [dm_decoy by jan](https://gamebanana.com/mods/308687)
@@ -26,9 +28,11 @@ This is a fast-download for my Team Fortress 2 Sourcemod servers.
 
 [dm_monthu_a1 by fossil](https://tf2maps.net/downloads/monthu.12586/)
 
-[dm_renegade_a1 by Jameson](https://gamebanana.com/mods/298546)
+[dm_renegade_a2a by Jameson](https://gamebanana.com/mods/298546)
 
 [dm_trainyard by jan](https://gamebanana.com/mods/313810)
+
+[duel_adrift_a1a by Jameson](https://tf2maps.net/downloads/adrift.13046/)
 
 [duel_amazon_a3 by fossil](https://tf2maps.net/downloads/amazon.12811/)
 
