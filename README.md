@@ -12,7 +12,7 @@ This is a fast-download for my Team Fortress 2 Sourcemod servers.
 
 [dm_blacksite by PJX](https://tf2maps.net/downloads/blacksite-deathmatch.13064/)
 
-[dm_chateau by Applecakey](https://tf2maps.net/downloads/chateau.12715/)
+[dm_chateau_a2 by Applecakey](https://tf2maps.net/downloads/chateau.12715/)
 
 [dm_decoy by jan](https://gamebanana.com/mods/308687)
 
