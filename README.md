@@ -74,24 +74,3 @@ This is a fast-download for my Team Fortress 2 Sourcemod servers.
 
 [pl_operandi_a14 by Suna](https://tf2maps.net/downloads/operandi.7719/)
 
-
-<u>Live Team Fortress 2</u>
-
-
-[cp_sultry_b5 by PigPigk](https://tf2maps.net/downloads/cp_sultry.11328/)
-
-[dm_mariokartb2_b3 by Archanor](https://gamebanana.com/mods/71399)
-
-[dm_mariokart3_v1 by Archanor](https://gamebanana.com/mods/71400)
-
-[koth_bagel_rc5 by Yrr](https://tf2maps.net/downloads/bagel-2020.5527/)
-
-[koth_slaughter_b2a by Void](https://tf2maps.net/downloads/slaughter.2795/)
-
-[koth_spillway_rc3a by pont](https://tf2maps.net/downloads/koth_spillway.7893/)
-
-[koth_trainsawlaser_rc2 by Crash](https://tf2maps.net/downloads/trainsawlaser.675/)
-
-[koth_wubwubwub_remix_vip by Crash](https://tf2maps.net/downloads/wubwubwub.735/)
-
-[pd_gump_rc2 by Bakscratch](https://tf2maps.net/downloads/gump.10974/)
