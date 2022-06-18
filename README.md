@@ -57,6 +57,9 @@ This is a fast-download for my Team Fortress 2 Sourcemod servers.
 
 <u>Team Fortress 2 Classic</u>
 
+[4koth_badlands by sniffy194](https://gamebanana.com/mods/382895)
+
+[arena_4badlands by JJFortJ](https://gamebanana.com/mods/382702)
 
 [arena_4well_b2 by Flipy and Suomimies55](https://gamebanana.com/mods/309922)
 
