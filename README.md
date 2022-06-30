@@ -27,23 +27,23 @@ This is a fast-download for my Open Fortress servers.
 
 [duel_adrift_a1a by Jameson](https://tf2maps.net/downloads/adrift.13046/)
 
-[duel_amazon_a3a by fossil](https://tf2maps.net/downloads/amazon.12811/)
+[duel_amazon by fossil](https://tf2maps.net/downloads/amazon.12811/)
 
-[duel_catalyst_v2 by fossil](https://tf2maps.net/downloads/corrupted-keep.12607/)
+[duel_catalyst_v2 by fossil](https://tf2maps.net/downloads/the-catalyst.12074/)
 
 [duel_corruptedkeep_a1 by coolface](https://tf2maps.net/downloads/corrupted-keep.12607/)
 
-[duel_geoteknik_a3 by fossil](https://tf2maps.net/downloads/geoteknik.12689/)
+[duel_geoteknik by fossil](https://tf2maps.net/downloads/geoteknik.12689/)
 
-[duel_seawalk_a1a by fossil](https://tf2maps.net/downloads/seawalk.11966/)
+[duel_seawalk by fossil](https://tf2maps.net/downloads/seawalk.11966/)
 
-[duel_shippery_a2 by fossil](https://tf2maps.net/downloads/shippery.12668/)
+[duel_shippery by fossil](https://tf2maps.net/downloads/shippery.12668/)
 
-[duel_skybreak_a1a by Jameson](https://tf2maps.net/downloads/skybreak.12766/)
+[duel_skybreak by Jameson](https://tf2maps.net/downloads/skybreak.12766/)
 
-[duel_sloth_a1a by Jameson](https://tf2maps.net/downloads/sloth.12710/)
+[duel_sloth by Jameson](https://tf2maps.net/downloads/sloth.12710/)
 
-[duel_spiral_b2 by TheGibusGuy](https://tf2maps.net/downloads/spiral.12724/
+[duel_spiral by TheGibusGuy](https://tf2maps.net/downloads/spiral.12724/
 
 [duel_tremor by fossil](https://tf2maps.net/downloads/tremor.11906/)
 
