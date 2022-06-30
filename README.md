@@ -43,11 +43,7 @@ This is a fast-download for my Open Fortress servers.
 
 [duel_sloth by Jameson](https://tf2maps.net/downloads/sloth.12710/)
 
-<<<<<<< HEAD
-[duel_spiral by TheGibusGuy](https://tf2maps.net/downloads/spiral.12724/
-=======
 [duel_spiral_b2 by TheGibusGuy](https://tf2maps.net/downloads/spiral.12724/)
->>>>>>> 4350feea9d00ac8ea953e883073e2f56c529259e
 
 [duel_tremor by fossil](https://tf2maps.net/downloads/tremor.11906/)
 
