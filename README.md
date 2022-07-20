@@ -27,13 +27,23 @@ This is a fast-download for my Open Fortress servers.
 
 [duel_adrift_a1a by Jameson](https://tf2maps.net/downloads/adrift.13046/)
 
+duel_aerowalknew by Scarlet Ruby (I think?)
+
 [duel_amazon by fossil](https://tf2maps.net/downloads/amazon.12811/)
+
+duel_blood_covenant_v3 by unknown
 
 [duel_catalyst_v2 by fossil](https://tf2maps.net/downloads/the-catalyst.12074/)
 
 [duel_corruptedkeep_a1 by coolface](https://tf2maps.net/downloads/corrupted-keep.12607/)
 
+[duel_excalibur_a2 by fossil](https://tf2maps.net/threads/excalibur.45924/)
+
 [duel_geoteknik by fossil](https://tf2maps.net/downloads/geoteknik.12689/)
+
+[duel_hazardone_a1a by fossil](https://tf2maps.net/downloads/hazardzone.13073/)
+
+[duel_manncorp_a1b by fossil](https://tf2maps.net/downloads/mann-corp.13272/)
 
 [duel_seawalk by fossil](https://tf2maps.net/downloads/seawalk.11966/)
 
