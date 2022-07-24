@@ -9,6 +9,8 @@ This is a fast-download for my Open Fortress servers.
 
 [dm_blacksite by PJX](https://tf2maps.net/downloads/blacksite-deathmatch.13064/)
 
+[dm_bobomb_battlefield by JJFortj](https://gamebanana.com/mods/391065)
+
 [dm_chateau_a2 by Applecakey](https://tf2maps.net/downloads/chateau.12715/)
 
 [dm_decoy by jan](https://gamebanana.com/mods/308687)
