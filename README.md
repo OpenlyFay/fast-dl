@@ -17,8 +17,6 @@ This is a fast-download for my Open Fortress servers.
 
 [dm_gasworks_final by nunozki](https://gamebanana.com/mods/151097)
 
-[dm_imperial by fossil](https://tf2maps.net/downloads/imperial.11859/)
-
 [dm_kong_king_v7 by JustSparky](https://gamebanana.com/mods/151104)
 
 [dm_monthu_a1 by fossil](https://tf2maps.net/downloads/monthu.12586/)
@@ -46,6 +44,8 @@ duel_blood_covenant_v3 by unknown
 [duel_hazardone_a1a by fossil](https://tf2maps.net/downloads/hazardzone.13073/)
 
 [duel_manncorp_a1b by fossil](https://tf2maps.net/downloads/mann-corp.13272/)
+
+[duel_imperial and tdm_imperial by fossil](https://tf2maps.net/downloads/imperial.11859/)
 
 [duel_seawalk by fossil](https://tf2maps.net/downloads/seawalk.11966/)
 
