@@ -25,7 +25,7 @@ This is a fast-download for my Open Fortress servers.
 
 [dm_trainyard by jan](https://gamebanana.com/mods/313810)
 
-[duel_adrift_a1a by Jameson](https://tf2maps.net/downloads/adrift.13046/)
+[duel_adrift_b1 by Jameson](https://tf2maps.net/downloads/adrift.13046/)
 
 duel_aerowalknew by Scarlet Ruby (I think?)
 
@@ -37,7 +37,7 @@ duel_blood_covenant_v3 by unknown
 
 [duel_corruptedkeep_a1 by coolface](https://tf2maps.net/downloads/corrupted-keep.12607/)
 
-[duel_excalibur_a2 by fossil](https://tf2maps.net/threads/excalibur.45924/)
+[duel_excalibur by fossil](https://tf2maps.net/threads/excalibur.45924/)
 
 [duel_geoteknik by fossil](https://tf2maps.net/downloads/geoteknik.12689/)
 
