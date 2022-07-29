@@ -55,11 +55,11 @@ duel_blood_covenant_v3 by unknown
 
 [duel_sloth by Jameson](https://tf2maps.net/downloads/sloth.12710/)
 
-[duel_spiral_b2 by TheGibusGuy](https://tf2maps.net/downloads/spiral.12724/)
+[duel_spiral_b by TheGibusGuy](https://tf2maps.net/downloads/spiral.12724/)
 
 [duel_tremor by fossil](https://tf2maps.net/downloads/tremor.11906/)
 
 [duel_well by ficool2 and Maggots65](https://gamebanana.com/mods/151048)
 
-[duel_wheatmill_a2 by fossil](https://tf2maps.net/downloads/wheatmill.12878/)
+[duel_wheatmill by fossil](https://tf2maps.net/downloads/wheatmill.12878/)
 
