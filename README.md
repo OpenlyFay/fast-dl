@@ -63,3 +63,5 @@ duel_blood_covenant_v3 by unknown
 
 [duel_wheatmill by fossil](https://tf2maps.net/downloads/wheatmill.12878/)
 
+[mdom_powerhouse by GoodFishMan](https://gamebanana.com/mods/313512)
+
