@@ -23,7 +23,7 @@ This is a fast-download for my Open Fortress servers.
 
 [dm_gasworks_final by nunozki](https://gamebanana.com/mods/151097)
 
-[dm_hollow by Savva](https://gamebanana.com/mods/151101]
+[dm_hollow by Savva](https://gamebanana.com/mods/151101)
 
 [dm_kong_king_v7 by JustSparky](https://gamebanana.com/mods/151104)
 
