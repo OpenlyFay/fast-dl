@@ -3,6 +3,8 @@ This is a fast-download for my Open Fortress servers.
 
 [dm_apple_b2a and duel_apple_a2 by Applecakey](https://tf2maps.net/downloads/apple.11921/)
 
+[dm_arid_a4 by TheWither031](https://tf2maps.net/downloads/arid.14373/)
+
 [dm_arsenic by ThatGreekAvian](https://gamebanana.com/mods/151060)
 
 [dm_bananabay by Krazy](https://gamebanana.com/mods/308878)
@@ -11,17 +13,37 @@ This is a fast-download for my Open Fortress servers.
 
 [dm_bobomb_battlefield by JJFortj](https://gamebanana.com/mods/391065)
 
+[dm_brutality by Jameson](https://tf2maps.net/downloads/brutality-72h.14314/)
+
 [dm_chateau_a2 by Applecakey](https://tf2maps.net/downloads/chateau.12715/)
 
 [dm_decoy by jan](https://gamebanana.com/mods/308687)
 
+[dm_drude_dev by Man With No Plan](https://gamebanana.com/mods/151067)
+
 [dm_gasworks_final by nunozki](https://gamebanana.com/mods/151097)
+
+[dm_hollow by Savva](https://gamebanana.com/mods/151101]
 
 [dm_kong_king_v7 by JustSparky](https://gamebanana.com/mods/151104)
 
+[dm_manor by JJFortJ](https://gamebanana.com/mods/387784)
+
+[dm_mineville by ThatGreekAvian](https://gamebanana.com/mods/151074)
+
 [dm_monthu_a1 by fossil](https://tf2maps.net/downloads/monthu.12586/)
 
+[dm_petra_b7 by Krazy](https://gamebanana.com/mods/151077)
+
+[dm_purple by littlefirez](https://gamebanana.com/mods/385024)
+
 [dm_renegade_a2a by Jameson](https://gamebanana.com/mods/298546)
+
+[dm_report_a7 by Eleetpancake](https://gamebanana.com/mods/151080)
+
+[dm_runoff_of by JJFortJ](https://gamebanana.com/mods/386727)
+
+[dm_soil_a2 by Rhamkin](https://tf2maps.net/downloads/dm_soil.13093/)
 
 [dm_trainyard by jan](https://gamebanana.com/mods/313810)
 
