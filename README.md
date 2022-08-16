@@ -23,17 +23,13 @@ This is a fast-download for my Open Fortress servers.
 
 [dm_gasworks_final by nunozki](https://gamebanana.com/mods/151097)
 
-<<<<<<< HEAD
 [dm_gravelpit by Green_one](https://gamebanana.com/mods/396140)
 
-[dm_hollow by Savva](https://gamebanana.com/mods/151101]
-=======
 [dm_hollow by Savva](https://gamebanana.com/mods/151101)
->>>>>>> 5a858d463b0746d3d7268cc085d9230389cc7162
 
 [dm_kong_king_v7 by JustSparky](https://gamebanana.com/mods/151104)
 
-[dm_lumberyard by Savva](https://gamebanana.com/mods/151107]
+[dm_lumberyard by Savva](https://gamebanana.com/mods/151107)
 
 [dm_manor by JJFortJ](https://gamebanana.com/mods/387784)
 
