@@ -25,11 +25,7 @@ This is a fast-download for my Open Fortress servers.
 
 [dm_gravelpit by Green_one](https://gamebanana.com/mods/396140)
 
-<<<<<<< HEAD
 [dm_hollow by Savva](https://gamebanana.com/mods/151101)
-=======
-[dm_hollow by Savva](https://gamebanana.com/mods/151101]
->>>>>>> 8656534b583b887fd813d3ff5cf54434a0e33f45
 
 [dm_kong_king_v7 by JustSparky](https://gamebanana.com/mods/151104)
 
