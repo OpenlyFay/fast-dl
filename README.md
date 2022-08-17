@@ -98,3 +98,5 @@ duel_blood_covenant_v3 by unknown
 
 [mdom_powerhouse by GoodFishMan](https://gamebanana.com/mods/313512)
 
+
+[Half Life Source maps](https://www.moddb.com/games/half-life-source/addons/half-life-resized-maps)
