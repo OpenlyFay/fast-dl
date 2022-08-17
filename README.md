@@ -27,8 +27,11 @@ This is a fast-download for my Open Fortress servers.
 
 [dm_gravelpit by Green_one](https://gamebanana.com/mods/396140)
 
+<<<<<<< HEAD
 [dm_hanger by AlphaBlaster](https://tf2maps.net/downloads/e1m1-hangar.14467/)
 
+=======
+>>>>>>> a38a6cb71590b46062828efc11830a94283d0264
 [dm_hollow by Savva](https://gamebanana.com/mods/151101)
 
 [dm_kong_king_v7 by JustSparky](https://gamebanana.com/mods/151104)
