@@ -21,15 +21,15 @@ This is a fast-download for my Open Fortress servers.
 
 [dm_drude_dev by Man With No Plan](https://gamebanana.com/mods/151067)
 
+[dm_facility by AlphaBlaster](https://tf2maps.net/downloads/chemical-warfare-facility-goldeneye-007.14468/)
+
 [dm_gasworks_final by nunozki](https://gamebanana.com/mods/151097)
 
 [dm_gravelpit by Green_one](https://gamebanana.com/mods/396140)
 
-<<<<<<< HEAD
+[dm_hanger by AlphaBlaster](https://tf2maps.net/downloads/e1m1-hangar.14467/)
+
 [dm_hollow by Savva](https://gamebanana.com/mods/151101)
-=======
-[dm_hollow by Savva](https://gamebanana.com/mods/151101]
->>>>>>> 8656534b583b887fd813d3ff5cf54434a0e33f45
 
 [dm_kong_king_v7 by JustSparky](https://gamebanana.com/mods/151104)
 
@@ -55,7 +55,7 @@ This is a fast-download for my Open Fortress servers.
 
 [dm_trainyard by jan](https://gamebanana.com/mods/313810)
 
-[duel_adrift_b1 by Jameson](https://tf2maps.net/downloads/adrift.13046/)
+[duel_adrift_b2 by Jameson](https://tf2maps.net/downloads/adrift.13046/)
 
 duel_aerowalknew by Scarlet Ruby (I think?)
 
