@@ -27,8 +27,6 @@ This is a fast-download for my Open Fortress servers.
 
 [dm_gravelpit by Green_one](https://gamebanana.com/mods/396140)
 
-[dm_hanger by AlphaBlaster](https://tf2maps.net/downloads/e1m1-hangar.14467/)
-
 [dm_hollow by Savva](https://gamebanana.com/mods/151101)
 
 [dm_kong_king_v7 by JustSparky](https://gamebanana.com/mods/151104)
@@ -52,6 +50,8 @@ This is a fast-download for my Open Fortress servers.
 [dm_runoff_of by JJFortJ](https://gamebanana.com/mods/386727)
 
 [dm_soil_a2 by Rhamkin](https://tf2maps.net/downloads/dm_soil.13093/)
+
+[dm_thunderbucket by Spunk](https://tf2maps.net/downloads/dm_thunderbucket.9564/)
 
 [dm_trainyard by jan](https://gamebanana.com/mods/313810)
 
@@ -92,6 +92,8 @@ duel_blood_covenant_v3 by unknown
 [duel_well by ficool2 and Maggots65](https://gamebanana.com/mods/151048)
 
 [duel_wheatmill by fossil](https://tf2maps.net/downloads/wheatmill.12878/)
+
+[mdom_swisscheese_a1 by AlphaBlaster](https://tf2maps.net/downloads/swiss-cheese-domination.14529/)
 
 [mdom_powerhouse by GoodFishMan](https://gamebanana.com/mods/313512)
 
