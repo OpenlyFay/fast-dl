@@ -21,8 +21,6 @@ This is a fast-download for my Open Fortress servers.
 
 [dm_drude_dev by Man With No Plan](https://gamebanana.com/mods/151067)
 
-[dm_facility by AlphaBlaster](https://tf2maps.net/downloads/chemical-warfare-facility-goldeneye-007.14468/)
-
 [dm_gasworks_final by nunozki](https://gamebanana.com/mods/151097)
 
 [dm_gravelpit by Green_one](https://gamebanana.com/mods/396140)
@@ -38,6 +36,8 @@ This is a fast-download for my Open Fortress servers.
 [dm_mineville by ThatGreekAvian](https://gamebanana.com/mods/151074)
 
 [dm_monthu_a1 by fossil](https://tf2maps.net/downloads/monthu.12586/)
+
+[dm_nucleus by HDMine_Face](https://gamebanana.com/mods/151109)
 
 [dm_petra_b7 by Krazy](https://gamebanana.com/mods/151077)
 
@@ -92,6 +92,12 @@ duel_blood_covenant_v3 by unknown
 [duel_well by ficool2 and Maggots65](https://gamebanana.com/mods/151048)
 
 [duel_wheatmill by fossil](https://tf2maps.net/downloads/wheatmill.12878/)
+
+[mctf_badlands by Savva](https://gamebanana.com/mods/151124)
+
+[mctf_doublecross by Savva](https://gamebanana.com/mods/151125)
+
+[mctf_turbine by Savva](https://gamebanana.com/mods/151130)
 
 [mdom_swisscheese_a1 by AlphaBlaster](https://tf2maps.net/downloads/swiss-cheese-domination.14529/)
 
