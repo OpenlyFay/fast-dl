@@ -23,8 +23,6 @@ This is a fast-download for my Open Fortress servers.
 
 [dm_gasworks_final by nunozki](https://gamebanana.com/mods/151097)
 
-[dm_gravelpit by Green_one](https://gamebanana.com/mods/396140)
-
 [dm_hollow by Savva](https://gamebanana.com/mods/151101)
 
 [dm_kong_king_v7 by JustSparky](https://gamebanana.com/mods/151104)
@@ -43,7 +41,7 @@ This is a fast-download for my Open Fortress servers.
 
 [dm_purple by littlefirez](https://gamebanana.com/mods/385024)
 
-[dm_renegade_a2a by Jameson](https://gamebanana.com/mods/298546)
+[dm_renegade by Jameson](https://tf2maps.net/downloads/renegade.11822/)
 
 [dm_report_a7 by Eleetpancake](https://gamebanana.com/mods/151080)
 
@@ -57,8 +55,6 @@ This is a fast-download for my Open Fortress servers.
 
 [duel_adrift_b2 by Jameson](https://tf2maps.net/downloads/adrift.13046/)
 
-duel_aerowalknew by Scarlet Ruby (I think?)
-
 [duel_amazon by fossil](https://tf2maps.net/downloads/amazon.12811/)
 
 duel_blood_covenant_v3 by unknown
@@ -67,7 +63,7 @@ duel_blood_covenant_v3 by unknown
 
 [duel_corruptedkeep_a1 by coolface](https://tf2maps.net/downloads/corrupted-keep.12607/)
 
-[duel_excalibur by fossil](https://tf2maps.net/threads/excalibur.45924/)
+[duel_excalibur by fossil](https://tf2maps.net/downloads/excalibur.12659/)
 
 [duel_geoteknik by fossil](https://tf2maps.net/downloads/geoteknik.12689/)
 
@@ -85,7 +81,7 @@ duel_blood_covenant_v3 by unknown
 
 [duel_sloth by Jameson](https://tf2maps.net/downloads/sloth.12710/)
 
-[duel_spiral_b by TheGibusGuy](https://tf2maps.net/downloads/spiral.12724/)
+[duel_spiral by TheGibusGuy](https://tf2maps.net/downloads/spiral.12724/)
 
 [duel_tremor by fossil](https://tf2maps.net/downloads/tremor.11906/)
 
@@ -99,9 +95,4 @@ duel_blood_covenant_v3 by unknown
 
 [mctf_turbine by Savva](https://gamebanana.com/mods/151130)
 
-[mdom_swisscheese_a1 by AlphaBlaster](https://tf2maps.net/downloads/swiss-cheese-domination.14529/)
-
 [mdom_powerhouse by GoodFishMan](https://gamebanana.com/mods/313512)
-
-
-[Half Life Source maps](https://www.moddb.com/games/half-life-source/addons/half-life-resized-maps)
