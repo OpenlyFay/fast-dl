@@ -9,8 +9,6 @@ This is a fast-download for my Open Fortress servers.
 
 [dm_bananabay by Krazy](https://gamebanana.com/mods/308878)
 
-[dm_blacksite by PJX](https://tf2maps.net/downloads/blacksite-deathmatch.13064/)
-
 [dm_bobomb_battlefield by JJFortj](https://gamebanana.com/mods/391065)
 
 [dm_brutality by Jameson](https://tf2maps.net/downloads/brutality-72h.14314/)
@@ -26,6 +24,8 @@ This is a fast-download for my Open Fortress servers.
 [dm_hollow by Savva](https://gamebanana.com/mods/151101)
 
 [dm_kong_king_v7 by JustSparky](https://gamebanana.com/mods/151104)
+
+[dm_longestyard by Bakcratch](https://gamebanana.com/mods/151072)
 
 [dm_lumberyard by Savva](https://gamebanana.com/mods/151107)
 
@@ -96,3 +96,5 @@ duel_blood_covenant_v3 by unknown
 [mctf_turbine by Savva](https://gamebanana.com/mods/151130)
 
 [mdom_powerhouse by GoodFishMan](https://gamebanana.com/mods/313512)
+
+[Classic Maps Source](https://gamebanana.com/mods/54450)
