@@ -9,8 +9,6 @@ This is a fast-download for my Open Fortress servers.
 
 [dm_bananabay by Krazy](https://gamebanana.com/mods/308878)
 
-[dm_bobomb_battlefield by JJFortj](https://gamebanana.com/mods/391065)
-
 [dm_brutality by Jameson](https://tf2maps.net/downloads/brutality-72h.14314/)
 
 [dm_chateau_a2 by Applecakey](https://tf2maps.net/downloads/chateau.12715/)
@@ -26,8 +24,6 @@ This is a fast-download for my Open Fortress servers.
 [dm_kong_king_v7 by JustSparky](https://gamebanana.com/mods/151104)
 
 [dm_longestyard by Bakcratch](https://gamebanana.com/mods/151072)
-
-[dm_lumberyard by Savva](https://gamebanana.com/mods/151107)
 
 [dm_manor by JJFortJ](https://gamebanana.com/mods/387784)
 
@@ -45,11 +41,7 @@ This is a fast-download for my Open Fortress servers.
 
 [dm_report_a7 by Eleetpancake](https://gamebanana.com/mods/151080)
 
-[dm_runoff_of by JJFortJ](https://gamebanana.com/mods/386727)
-
 [dm_soil_a2 by Rhamkin](https://tf2maps.net/downloads/dm_soil.13093/)
-
-[dm_thunderbucket by Spunk](https://tf2maps.net/downloads/dm_thunderbucket.9564/)
 
 [dm_trainyard by jan](https://gamebanana.com/mods/313810)
 
@@ -71,8 +63,6 @@ duel_blood_covenant_v3 by unknown
 
 [duel_manncorp_a1b by fossil](https://tf2maps.net/downloads/mann-corp.13272/)
 
-[duel_imperial and tdm_imperial by fossil](https://tf2maps.net/downloads/imperial.11859/)
-
 [duel_seawalk by fossil](https://tf2maps.net/downloads/seawalk.11966/)
 
 [duel_shippery by fossil](https://tf2maps.net/downloads/shippery.12668/)
@@ -83,8 +73,6 @@ duel_blood_covenant_v3 by unknown
 
 [duel_spiral by TheGibusGuy](https://tf2maps.net/downloads/spiral.12724/)
 
-[duel_tremor by fossil](https://tf2maps.net/downloads/tremor.11906/)
-
 [duel_well by ficool2 and Maggots65](https://gamebanana.com/mods/151048)
 
 [duel_wheatmill by fossil](https://tf2maps.net/downloads/wheatmill.12878/)
@@ -93,8 +81,12 @@ duel_blood_covenant_v3 by unknown
 
 [mctf_doublecross by Savva](https://gamebanana.com/mods/151125)
 
+[mctf_redplanet by Savva and Spipper](https://gamebanana.com/mods/151129)
+
 [mctf_turbine by Savva](https://gamebanana.com/mods/151130)
 
 [mdom_powerhouse by GoodFishMan](https://gamebanana.com/mods/313512)
+
+[tdm_imperial by fossil](https://tf2maps.net/downloads/imperial.11859/)
 
 [Classic Maps Source](https://gamebanana.com/mods/54450)
