@@ -9,13 +9,13 @@ This is a fast-download for my Open Fortress servers.
 
 [dm_bananabay by Krazy](https://gamebanana.com/mods/308878)
 
-dm_bricks by Ficool2
+[dm_bricks by Ficool2](https://drive.google.com/file/d/16WXtyqBae8eMZcmj_FP6uhcgOvAy-fsa/view)
 
 [dm_brutality by Jameson](https://tf2maps.net/downloads/brutality-72h.14314/)
 
 [dm_chateau_a2 by Applecakey](https://tf2maps.net/downloads/chateau.12715/)
 
-dm_cs16_mansion by Ficool2
+[dm_cs16_mansion by Ficool2](https://drive.google.com/file/d/16WXtyqBae8eMZcmj_FP6uhcgOvAy-fsa/view)
 
 [dm_decoy by jan](https://gamebanana.com/mods/308687)
 
@@ -31,7 +31,7 @@ dm_cs16_mansion by Ficool2
 
 [dm_manor by JJFortJ](https://gamebanana.com/mods/387784)
 
-dm_minecraft by Ficool2
+[dm_minecraft by Ficool2](https://drive.google.com/file/d/16WXtyqBae8eMZcmj_FP6uhcgOvAy-fsa/view)
 
 [dm_mineville by ThatGreekAvian](https://gamebanana.com/mods/151074)
 
@@ -98,5 +98,3 @@ duel_blood_covenant_v3 by unknown
 [mvip_checkmate by AlphaBlaster](https://tf2maps.net/downloads/checkmate-merc-vip.14595/)
 
 [tdm_imperial by fossil](https://tf2maps.net/downloads/imperial.11859/)
-
-[Classic Maps Source](https://gamebanana.com/mods/54450)
