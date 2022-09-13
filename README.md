@@ -29,8 +29,6 @@ This is a fast-download for my Open Fortress servers.
 
 [dm_longestyard by Bakcratch](https://gamebanana.com/mods/151072)
 
-[dm_manor by JJFortJ](https://gamebanana.com/mods/387784)
-
 [dm_minecraft by Ficool2](https://drive.google.com/file/d/16WXtyqBae8eMZcmj_FP6uhcgOvAy-fsa/view)
 
 [dm_mineville by ThatGreekAvian](https://gamebanana.com/mods/151074)
@@ -54,8 +52,6 @@ This is a fast-download for my Open Fortress servers.
 [duel_adrift_b2 by Jameson](https://tf2maps.net/downloads/adrift.13046/)
 
 [duel_amazon by fossil](https://tf2maps.net/downloads/amazon.12811/)
-
-duel_blood_covenant_v3 by unknown
 
 [duel_catalyst_v2 by fossil](https://tf2maps.net/downloads/the-catalyst.12074/)
 
