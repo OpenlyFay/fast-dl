@@ -75,8 +75,6 @@ This is a fast-download for my Open Fortress servers.
 
 [duel_spiral by TheGibusGuy](https://tf2maps.net/downloads/spiral.12724/)
 
-[duel_well by ficool2 and Maggots65](https://gamebanana.com/mods/151048)
-
 [duel_wheatmill by fossil](https://tf2maps.net/downloads/wheatmill.12878/)
 
 [mctf_badlands by Savva](https://gamebanana.com/mods/151124)
@@ -88,6 +86,8 @@ This is a fast-download for my Open Fortress servers.
 [mctf_turbine by Savva](https://gamebanana.com/mods/151130)
 
 [mdom_checkmate by AlphaBlaster](https://tf2maps.net/downloads/checkmate-merc-dom.14600/)
+
+[mdom_painhouse by jan](https://tf2maps.net/downloads/mdom-painhouse.14616/)
 
 [mdom_powerhouse by GoodFishMan](https://gamebanana.com/mods/313512)
 
