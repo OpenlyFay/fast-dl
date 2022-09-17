@@ -27,6 +27,8 @@ This is a fast-download for my Open Fortress servers.
 
 [dm_kong_king_v7 by JustSparky](https://gamebanana.com/mods/151104)
 
+[dm_landfall by MrSkyBlue1020](https://tf2maps.net/downloads/landfall-night-of-deathmatch.13115/)
+
 [dm_longestyard by Bakcratch](https://gamebanana.com/mods/151072)
 
 [dm_minecraft by Ficool2](https://drive.google.com/file/d/16WXtyqBae8eMZcmj_FP6uhcgOvAy-fsa/view)
@@ -37,7 +39,11 @@ This is a fast-download for my Open Fortress servers.
 
 [dm_nucleus by HDMine_Face](https://gamebanana.com/mods/151109)
 
+[dm_nuclide by SunaTF2](https://gamebanana.com/mods/151110)
+
 [dm_petra_b7 by Krazy](https://gamebanana.com/mods/151077)
+
+[dm_process by Horiuchi](https://gamebanana.com/mods/151111)
 
 [dm_purple by littlefirez](https://gamebanana.com/mods/385024)
 
@@ -49,6 +55,8 @@ This is a fast-download for my Open Fortress servers.
 
 [dm_trainyard by jan](https://gamebanana.com/mods/313810)
 
+[dm_waste by tomandjerry](https://gamebanana.com/mods/293664)
+
 [duel_adrift_b2 by Jameson](https://tf2maps.net/downloads/adrift.13046/)
 
 [duel_amazon by fossil](https://tf2maps.net/downloads/amazon.12811/)
@@ -59,7 +67,7 @@ This is a fast-download for my Open Fortress servers.
 
 [duel_excalibur by fossil](https://tf2maps.net/downloads/excalibur.12659/)
 
-[duel_geoteknik by fossil](https://tf2maps.net/downloads/geoteknik.12689/)
+[duel_geoteknik by fossil and Applecakey](https://tf2maps.net/downloads/geoteknik.12689/)
 
 [duel_hazardone_a1a by fossil](https://tf2maps.net/downloads/hazardzone.13073/)
 
