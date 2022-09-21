@@ -1,9 +1,9 @@
 This is a fast-download for my Open Fortress servers.
 
 
-[dm_apple_b2a and duel_apple_a2 by Applecakey](https://tf2maps.net/downloads/apple.11921/)
+[dm_apple by Applecakey](https://tf2maps.net/downloads/apple.11921/)
 
-[dm_arid_a4 by TheWither031](https://tf2maps.net/downloads/arid.14373/)
+[dm_arid by TheWither031](https://tf2maps.net/downloads/arid.14373/)
 
 [dm_arsenic by ThatGreekAvian](https://gamebanana.com/mods/151060)
 
@@ -13,7 +13,7 @@ This is a fast-download for my Open Fortress servers.
 
 [dm_brutality by Jameson](https://tf2maps.net/downloads/brutality-72h.14314/)
 
-[dm_chateau_a2 by Applecakey](https://tf2maps.net/downloads/chateau.12715/)
+[dm_chateau by Applecakey](https://tf2maps.net/downloads/chateau.12715/)
 
 [dm_cs16_mansion by Ficool2](https://drive.google.com/file/d/16WXtyqBae8eMZcmj_FP6uhcgOvAy-fsa/view)
 
@@ -25,7 +25,7 @@ This is a fast-download for my Open Fortress servers.
 
 [dm_hollow by Savva](https://gamebanana.com/mods/151101)
 
-[dm_kong_king_v7 by JustSparky](https://gamebanana.com/mods/151104)
+[dm_kong_king by JustSparky](https://gamebanana.com/mods/151104)
 
 [dm_landfall by MrSkyBlue1020](https://tf2maps.net/downloads/landfall-night-of-deathmatch.13115/)
 
@@ -35,13 +35,13 @@ This is a fast-download for my Open Fortress servers.
 
 [dm_mineville by ThatGreekAvian](https://gamebanana.com/mods/151074)
 
-[dm_monthu_a1 by fossil](https://tf2maps.net/downloads/monthu.12586/)
+[dm_monthu by fossil](https://tf2maps.net/downloads/monthu.12586/)
 
 [dm_nucleus by HDMine_Face](https://gamebanana.com/mods/151109)
 
 [dm_nuclide by SunaTF2](https://gamebanana.com/mods/151110)
 
-[dm_petra_b7 by Krazy](https://gamebanana.com/mods/151077)
+[dm_petra by Krazy](https://gamebanana.com/mods/151077)
 
 [dm_process by Horiuchi](https://gamebanana.com/mods/151111)
 
@@ -49,29 +49,29 @@ This is a fast-download for my Open Fortress servers.
 
 [dm_renegade by Jameson](https://tf2maps.net/downloads/renegade.11822/)
 
-[dm_report_a7 by Eleetpancake](https://gamebanana.com/mods/151080)
+[dm_report by Eleetpancake](https://gamebanana.com/mods/151080)
 
-[dm_soil_a2 by Rhamkin](https://tf2maps.net/downloads/dm_soil.13093/)
+[dm_soil by Rhamkin](https://tf2maps.net/downloads/dm_soil.13093/)
 
 [dm_trainyard by jan](https://gamebanana.com/mods/313810)
 
 [dm_waste by tomandjerry](https://gamebanana.com/mods/293664)
 
-[duel_adrift_b2 by Jameson](https://tf2maps.net/downloads/adrift.13046/)
+[duel_adrift by Jameson](https://tf2maps.net/downloads/adrift.13046/)
 
 [duel_amazon by fossil](https://tf2maps.net/downloads/amazon.12811/)
 
-[duel_catalyst_v2 by fossil](https://tf2maps.net/downloads/the-catalyst.12074/)
+[duel_apple by AppleCakey](https://tf2maps.net/downloads/apple-duel-edit.11926/)
 
-[duel_corruptedkeep_a1 by coolface](https://tf2maps.net/downloads/corrupted-keep.12607/)
+[duel_catalyst by fossil](https://tf2maps.net/downloads/the-catalyst.12074/)
 
 [duel_excalibur by fossil](https://tf2maps.net/downloads/excalibur.12659/)
 
 [duel_geoteknik by fossil and Applecakey](https://tf2maps.net/downloads/geoteknik.12689/)
 
-[duel_hazardone_a1a by fossil](https://tf2maps.net/downloads/hazardzone.13073/)
+[duel_hazardone by fossil](https://tf2maps.net/downloads/hazardzone.13073/)
 
-[duel_manncorp_a1b by fossil](https://tf2maps.net/downloads/mann-corp.13272/)
+[duel_manncorp by fossil](https://tf2maps.net/downloads/mann-corp.13272/)
 
 [duel_seawalk by fossil](https://tf2maps.net/downloads/seawalk.11966/)
 
