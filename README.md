@@ -9,6 +9,8 @@ This is a fast-download for my Open Fortress servers.
 
 [dm_bananabay by Krazy](https://gamebanana.com/mods/308878)
 
+dm_bricks by ficool2
+
 [dm_brutality by Jameson](https://tf2maps.net/downloads/brutality-72h.14314/)
 
 [dm_chateau by Applecakey](https://tf2maps.net/downloads/chateau.12715/)
@@ -28,6 +30,8 @@ This is a fast-download for my Open Fortress servers.
 [dm_landfall by MrSkyBlue1020](https://tf2maps.net/downloads/landfall-night-of-deathmatch.13115/)
 
 [dm_longestyard by Bakcratch](https://gamebanana.com/mods/151072)
+
+dm_minecraft by ficool2
 
 [dm_mineville by ThatGreekAvian](https://gamebanana.com/mods/151074)
 
