@@ -19,8 +19,6 @@ dm_bricks by ficool2
 
 [dm_drude_dev by Man With No Plan](https://gamebanana.com/mods/151067)
 
-[dm_gasworks_final by nunozki](https://gamebanana.com/mods/151097)
-
 [dm_ghost_town by Savva](https://gamebanana.com/mods/151098)
 
 [dm_hollow by Savva](https://gamebanana.com/mods/151101)
@@ -52,8 +50,6 @@ dm_minecraft by ficool2
 [dm_soil by Rhamkin](https://tf2maps.net/downloads/dm_soil.13093/)
 
 [dm_trainyard by jan](https://gamebanana.com/mods/313810)
-
-[dm_waste by tomandjerry](https://gamebanana.com/mods/293664)
 
 [duel_amazon by fossil](https://tf2maps.net/downloads/amazon.12811/)
 
@@ -89,9 +85,9 @@ dm_minecraft by ficool2
 
 [mdom_checkmate by AlphaBlaster](https://tf2maps.net/downloads/checkmate-merc-dom.14600/)
 
-[mdom_painhouse by jan](https://tf2maps.net/downloads/mdom-painhouse.14616/)
+[mdom_dusk by Luchious](https://gamebanana.com/mods/404848)
 
-[mdom_powerhouse by GoodFishMan](https://gamebanana.com/mods/313512)
+[mdom_painhouse by jan](https://tf2maps.net/downloads/mdom-painhouse.14616/)
 
 [mvip_checkmate by AlphaBlaster](https://tf2maps.net/downloads/checkmate-merc-vip.14595/)
 
