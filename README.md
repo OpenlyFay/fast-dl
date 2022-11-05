@@ -15,6 +15,8 @@ dm_bricks by ficool2
 
 [dm_chateau by Applecakey](https://tf2maps.net/downloads/chateau.12715/)
 
+dm_cs16_mansion by ficool2
+
 [dm_decoy by jan](https://gamebanana.com/mods/308687)
 
 [dm_drude_dev by Man With No Plan](https://gamebanana.com/mods/151067)
@@ -27,7 +29,11 @@ dm_bricks by ficool2
 
 [dm_landfall by MrSkyBlue1020](https://tf2maps.net/downloads/landfall-night-of-deathmatch.13115/)
 
+[dm_lolcano by JustSparky](https://gamebanana.com/mods/151105)
+
 [dm_longestyard by Bakcratch](https://gamebanana.com/mods/151072)
+
+[dm_metro by Birchly and Eve](https://gamebanana.com/mods/151073)
 
 dm_minecraft by ficool2
 
@@ -36,6 +42,8 @@ dm_minecraft by ficool2
 [dm_nucleus by HDMine_Face](https://gamebanana.com/mods/151109)
 
 [dm_nuclide by SunaTF2](https://gamebanana.com/mods/151110)
+
+[dm_onett by jan](https://gamebanana.com/mods/405838)
 
 [dm_petra by Krazy](https://gamebanana.com/mods/151077)
 
@@ -47,7 +55,9 @@ dm_minecraft by ficool2
 
 [dm_report by Eleetpancake](https://gamebanana.com/mods/151080)
 
-[dm_soil by Rhamkin](https://tf2maps.net/downloads/dm_soil.13093/)
+[dm_soil by Rhamkin](https://tf2maps.net/downloads/dm_soil.13093/)z
+
+[dm_staple by KubeRuns](https://gamebanana.com/mods/151113)
 
 [dm_trainyard by jan](https://gamebanana.com/mods/313810)
 
