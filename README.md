@@ -23,6 +23,8 @@ dm_cs16_mansion by ficool2
 
 [dm_ghost_town by Savva](https://gamebanana.com/mods/151098)
 
+[dm_hightower_revamp by Spunky](https://tf2maps.net/downloads/dm_hightower_revamp.9535/)
+
 [dm_hollow by Savva](https://gamebanana.com/mods/151101)
 
 [dm_kong_king by JustSparky](https://gamebanana.com/mods/151104)
