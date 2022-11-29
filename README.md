@@ -1,5 +1,17 @@
 This is a fast-download for my servers.
 
+Jabroni Brawl
+
+[jb_badlands by SweetieBud](https://gamebanana.com/mods/413590)
+
+jb_frizzlesberg by Ossy Flawol
+
+[jb_longestyard by SweetieBud](https://gamebanana.com/mods/412299)
+
+[jb_orange by bubbyboytoo](https://gamebanana.com/mods/411726)
+
+[jb_portal_bts by bubbyboytoo](https://gamebanana.com/mods/412105)
+
 Open Fortress
 
 [dm_apple by Applecakey](https://tf2maps.net/downloads/apple.11921/)
@@ -108,4 +120,8 @@ dm_minecraft by ficool2
 
 Pre-Fortress 2
 
-[ctf_classic_2fort_pft by Suomimies55](https://gamebanana.com/mods/413220)
+[ad_egypt by Suomimies55](https://gamebanana.com/mods/413826)
+
+[ctf_classic_2fort_pf2 by Suomimies55](https://gamebanana.com/mods/413220)
+
+[pl_upward_betafied by Cool_Username07](https://gamebanana.com/mods/413918)
