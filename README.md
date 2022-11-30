@@ -4,7 +4,7 @@ Jabroni Brawl
 
 [jb_badlands by SweetieBud](https://gamebanana.com/mods/413590)
 
-jb_frizzlesberg by Ossy Flawol
+[jb_frizzlesberg by Ossy Flawol](https://gamebanana.com/mods/414670)
 
 [jb_longestyard by SweetieBud](https://gamebanana.com/mods/412299)
 
