@@ -125,3 +125,33 @@ Pre-Fortress 2
 [ctf_classic_2fort_pf2 by Suomimies55](https://gamebanana.com/mods/413220)
 
 [pl_upward_betafied by Cool_Username07](https://gamebanana.com/mods/413918)
+
+Team Fortress 2 Classic
+
+[4koth_badlands by sniffy194](https://tf2maps.net/downloads/4koth_badlands-4-team-badlands.13100/)
+
+[arena_4offblast by shurbrrt](https://gamebanana.com/mods/56254)
+
+[arena_4plex by PugFug](https://gamebanana.com/mods/56256)
+
+[arena_4well by Suomimies55 and Flipy](https://gamebanana.com/mods/309922)
+
+[arena_command by qualitycont and Bill Shit](https://gamebanana.com/mods/56257)
+
+[arena_floodgate by Savva](https://tf2maps.net/downloads/floodgate.13089/)
+
+[dom_5gorge by stovven](https://gamebanana.com/mods/56216)
+
+[dom_badwater by Wheatttt](https://gamebanana.com/mods/309956)
+
+[dom_cliffhanger_tf2c by queensizedsofa and Zewl33t](https://gamebanana.com/mods/56223)
+
+[dom_dorkham by Lev1679](https://tf2maps.net/downloads/dom_dorkham.13294/)
+
+[dom_steel by Savva](https://tf2maps.net/downloads/steel-domination.13090/)
+
+[koth_fourmill by stovven](https://gamebanana.com/mods/56237)
+
+[vip_dover by Lev1679](https://tf2maps.net/downloads/vip_dover.13199/)
+
+[vip_upward by Technochips](https://tf2maps.net/downloads/vip_upward.13091/)
