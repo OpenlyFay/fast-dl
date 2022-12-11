@@ -122,6 +122,8 @@ Pre-Fortress 2
 
 [ad_egypt by Suomimies55](https://gamebanana.com/mods/413826)
 
+[ad_junction_pf2 by JJFortJ](https://gamebanana.com/mods/416333)
+
 [arena_2fort by Mr Malos](https://mr-malos.itch.io/arena-2fort)
 
 [ctf_classic_2fort_pf2 by Suomimies55](https://gamebanana.com/mods/413220)
