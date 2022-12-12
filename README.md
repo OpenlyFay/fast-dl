@@ -12,6 +12,8 @@ Jabroni Brawl
 
 [jb_orange by bubbyboytoo](https://gamebanana.com/mods/411726)
 
+[jb_passionpit by CabooseJr](https://gamebanana.com/mods/411842)
+
 [jb_portal_bts by bubbyboytoo](https://gamebanana.com/mods/412105)
 
 Open Fortress
