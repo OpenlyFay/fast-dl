@@ -4,6 +4,8 @@ Jabroni Brawl
 
 [jb_badlands by SweetieBud](https://gamebanana.com/mods/413590)
 
+[jb_convoy by AsG_Alligator](https://gamebanana.com/mods/414094)
+
 [jb_frizzlesberg by Ossy Flawol](https://gamebanana.com/mods/414670)
 
 [jb_longestyard by SweetieBud](https://gamebanana.com/mods/412299)
@@ -17,8 +19,6 @@ Open Fortress
 [dm_apple by Applecakey](https://tf2maps.net/downloads/apple.11921/)
 
 [dm_arid by TheWither031](https://tf2maps.net/downloads/arid.14373/)
-
-[dm_arsenic by ThatGreekAvian](https://gamebanana.com/mods/151060)
 
 [dm_bananabay by Krazy](https://gamebanana.com/mods/308878)
 
