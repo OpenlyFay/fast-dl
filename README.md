@@ -76,6 +76,10 @@ dm_minecraft by ficool2
 
 [dm_trainyard by jan](https://gamebanana.com/mods/313810)
 
+[duel_adrift by Jameson](https://tf2maps.net/downloads/adrift.13046/)
+
+[duel_advent by TheBattyOne](https://tf2maps.net/downloads/advent.14590/)
+
 [duel_amazon by fossil](https://tf2maps.net/downloads/amazon.12811/)
 
 [duel_apple by AppleCakey](https://tf2maps.net/downloads/apple-duel-edit.11926/)
@@ -119,6 +123,8 @@ dm_minecraft by ficool2
 [tdm_imperial by fossil](https://tf2maps.net/downloads/imperial.11859/)
 
 Pre-Fortress 2
+
+[ad_avanti by GrassyTrams](https://gamebanana.com/mods/416430)
 
 [ad_egypt by Suomimies55](https://gamebanana.com/mods/413826)
 
