@@ -140,6 +140,10 @@ Pre-Fortress 2
 
 [ctf_classic_2fort_pf2 by Suomimies55](https://gamebanana.com/mods/413220)
 
+[ctf_epicenter by GrassyTrams](https://gamebanana.com/mods/416839)
+
+[invade_well by Makako](https://gamebanana.com/mods/416601)
+
 [koth_harvest_pf2 by JJFortJ](https://gamebanana.com/mods/412905)
 
 [pl_upward_betafied by Cool_Username07](https://gamebanana.com/mods/413918)
