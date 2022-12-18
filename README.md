@@ -8,6 +8,8 @@ jb_bigbillsfactory by the sun is my son
 
 [jb_convoy by AsG_Alligator](https://gamebanana.com/mods/414094)
 
+jb_executive_bluey by Ossy Flawol
+
 [jb_frizzlesberg by Ossy Flawol](https://gamebanana.com/mods/414670)
 
 jb_jankcentury by Viniyur
