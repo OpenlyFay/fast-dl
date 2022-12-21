@@ -2,6 +2,8 @@ This is a fast-download for my servers.
 
 Jabroni Brawl
 
+[jb_albatross by AsG_Alligator](https://gamebanana.com/mods/417586)
+
 [jb_badlands by SweetieBud](https://gamebanana.com/mods/413590)
 
 jb_bigbillsfactory by the sun is my son
@@ -91,6 +93,8 @@ dm_minecraft by ficool2
 [duel_amazon by fossil](https://tf2maps.net/downloads/amazon.12811/)
 
 [duel_apple by AppleCakey](https://tf2maps.net/downloads/apple-duel-edit.11926/)
+
+[duel_butter by Jameson](https://tf2maps.net/downloads/butter.14987/)
 
 [duel_catalyst by fossil](https://tf2maps.net/downloads/the-catalyst.12074/)
 
