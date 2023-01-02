@@ -38,8 +38,6 @@ dm_bricks by ficool2
 
 [dm_chateau by Applecakey](https://tf2maps.net/downloads/chateau.12715/)
 
-dm_cs16_mansion by ficool2
-
 [dm_decoy by jan](https://gamebanana.com/mods/308687)
 
 [dm_drude_dev by Man With No Plan](https://gamebanana.com/mods/151067)
@@ -80,7 +78,7 @@ dm_minecraft by ficool2
 
 [dm_report by Eleetpancake](https://gamebanana.com/mods/151080)
 
-[dm_soil by Rhamkin](https://tf2maps.net/downloads/dm_soil.13093/)z
+[dm_soil by Rhamkin](https://tf2maps.net/downloads/dm_soil.13093/)
 
 [dm_staple by KubeRuns](https://gamebanana.com/mods/151113)
 
@@ -140,8 +138,6 @@ Pre-Fortress 2
 
 [ad_egypt by Suomimies55](https://gamebanana.com/mods/413826)
 
-[ad_junction_pf2 by JJFortJ](https://gamebanana.com/mods/416333)
-
 [ad_steel by Makako](https://gamebanana.com/mods/418364)
 
 [arena_2fort by Mr Malos](https://mr-malos.itch.io/arena-2fort)
@@ -153,6 +149,4 @@ Pre-Fortress 2
 [invade_well by Makako](https://gamebanana.com/mods/416601)
 
 [koth_harvest_pf2 by JJFortJ](https://gamebanana.com/mods/412905)
-
-[pl_upward_betafied by Cool_Username07](https://gamebanana.com/mods/413918)
 
