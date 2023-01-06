@@ -126,6 +126,8 @@ dm_minecraft by ficool2
 
 [mdom_dusk by Luchious](https://gamebanana.com/mods/404848)
 
+[mdom_lithos by Jameson](https://tf2maps.net/downloads/lithos.15035/)
+
 [mdom_painhouse by jan](https://tf2maps.net/downloads/mdom-painhouse.14616/)
 
 [mvip_checkmate by AlphaBlaster](https://tf2maps.net/downloads/checkmate-merc-vip.14595/)
