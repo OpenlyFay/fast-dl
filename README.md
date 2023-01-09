@@ -140,6 +140,8 @@ Pre-Fortress 2
 
 [ad_avanti by GrassyTrams](https://gamebanana.com/mods/416430)
 
+[ad_bridge by GrassyTrams](https://gamebanana.com/mods/421431)
+
 [ad_egypt by Suomimies55](https://gamebanana.com/mods/413826)
 
 [ad_steel by Makako](https://gamebanana.com/mods/418364)
