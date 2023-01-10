@@ -18,6 +18,8 @@ jb_jankcentury by Viniyur
 
 [jb_longestyard by SweetieBud](https://gamebanana.com/mods/412299)
 
+jb_miningdrill by the sun is my son
+
 [jb_orange by bubbyboytoo](https://gamebanana.com/mods/411726)
 
 [jb_passionpit by CabooseJr](https://gamebanana.com/mods/411842)
