@@ -152,6 +152,8 @@ Pre-Fortress 2
 
 [arena_2fort by Mr Malos](https://mr-malos.itch.io/arena-2fort)
 
+[arena_gravelpit by GrassyTrams](https://gamebanana.com/mods/422017)
+
 [ctf_classic_2fort_pf2 by Suomimies55](https://gamebanana.com/mods/413220)
 
 [ctf_epicenter by GrassyTrams](https://gamebanana.com/mods/416839)
