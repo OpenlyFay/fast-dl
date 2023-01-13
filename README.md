@@ -158,8 +158,6 @@ Pre-Fortress 2
 
 [ctf_epicenter by GrassyTrams](https://gamebanana.com/mods/416839)
 
-[ctf_sawmill_pf2 by Twilight Bob](https://gamebanana.com/mods/421088)
-
 [invade_well by Makako](https://gamebanana.com/mods/416601)
 
 [koth_harvest_pf2 by JJFortJ](https://gamebanana.com/mods/412905)
