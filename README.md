@@ -154,6 +154,8 @@ Pre-Fortress 2
 
 [arena_gravelbridgepit by GrassyTrams](https://gamebanana.com/mods/422017)
 
+cp_gravelcube by Zoe TBH
+
 [ctf_classic_2fort_pf2 by Suomimies55](https://gamebanana.com/mods/413220)
 
 [ctf_epicenter by GrassyTrams](https://gamebanana.com/mods/416839)
