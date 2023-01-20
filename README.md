@@ -176,6 +176,8 @@ Team Fortress 2 Classic
 
 [arena_floodgate by Savva](https://tf2maps.net/downloads/floodgate.13089/)
 
+[arena_gravelpit by HDMine_face](https://gamebanana.com/mods/422564)
+
 [dom_5gorge by stovven](https://gamebanana.com/mods/56216)
 
 [dom_badwater by Wheatttt](https://gamebanana.com/mods/309956)
