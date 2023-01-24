@@ -196,3 +196,10 @@ Team Fortress 2 Classic
 
 [vip_upward by Technochips](https://tf2maps.net/downloads/vip_upward.13091/)
 
+Team Fortress 2 (not in TF2)
+
+[boss_big_shot by Alpha_Alex](https://gamebanana.com/mods/355491)
+
+[boss_jevil by Alpha_Alex](https://gamebanana.com/mods/68856)
+
+[my_world by Alpha_Alex](https://gamebanana.com/mods/68986)
