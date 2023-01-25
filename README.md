@@ -198,6 +198,8 @@ Team Fortress 2 Classic
 
 Team Fortress 2 (not in TF2)
 
+[aplr_tinyrock by Muddy](https://tf2maps.net/downloads/tiny-rock.14422/)
+
 [boss_big_shot by Alpha_Alex](https://gamebanana.com/mods/355491)
 
 [boss_jevil by Alpha_Alex](https://gamebanana.com/mods/68856)
