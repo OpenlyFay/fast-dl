@@ -200,7 +200,7 @@ Team Fortress 2 Classic
 
 [vipr_hijack by TrustyGun](https://tf2maps.net/downloads/vipr_hijack.13189/)
 
-Team Fortress 2 (not in TF2)
+Team Fortress 2
 
 [aplr_tinyrock by Muddy](https://tf2maps.net/downloads/tiny-rock.14422/)
 
@@ -209,3 +209,31 @@ Team Fortress 2 (not in TF2)
 [boss_jevil by Alpha_Alex](https://gamebanana.com/mods/68856)
 
 [my_world by Alpha_Alex](https://gamebanana.com/mods/68986)
+
+[mvm_area_52 by Woozlez and Zorbos](https://tf2maps.net/downloads/mvm-area-52.698/)
+
+[mvm_cactuscanyon by DominatorBoy97](https://gamebanana.com/mods/288231)
+
+[mvm_crown by Startacker](https://tf2maps.net/downloads/crown.10589/)
+
+[mvm_dockyard by Filmore](https://tf2maps.net/downloads/dockyard.4105/)
+
+[mvm_dusk by Smrekish](https://tf2maps.net/downloads/dusk.8946/)
+
+[mvm_estate by Erk](https://tf2maps.net/downloads/mvm_estate.3966/)
+
+[mvm_goldpit by Asd417](https://tf2maps.net/downloads/goldpit.7115/)
+
+[mvm_hoovydam by Blade x54](https://tf2maps.net/downloads/hoovy-dam.8899/)
+
+[mvm_oxidize by Asd417](https://tf2maps.net/downloads/oxidize.6009/)
+
+[mvm_sequoia by Freyja](https://tf2maps.net/downloads/sequoia.4131/)
+
+[mvm_sharp by dexc34](https://tf2maps.net/downloads/sharp.8553/)
+
+[mvm_underground by Woozlez](https://tf2maps.net/downloads/underground.621/)
+
+[mvm_waterfront by signalmanx](https://tf2maps.net/downloads/waterfront.4140/)
+
+[mvm_yiresa by PigPig](https://tf2maps.net/downloads/mvm_yiresa.9436/)
