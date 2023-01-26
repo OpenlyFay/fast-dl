@@ -192,9 +192,13 @@ Team Fortress 2 Classic
 
 [koth_fourmill by stovven](https://gamebanana.com/mods/56237)
 
+[tc_national by 14bit](https://tf2maps.net/downloads/tc-national-tf2c.14991/)
+
 [vip_dover by Lev1679](https://tf2maps.net/downloads/vip_dover.13199/)
 
 [vip_upward by Technochips](https://tf2maps.net/downloads/vip_upward.13091/)
+
+[vipr_hijack by TrustyGun](https://tf2maps.net/downloads/vipr_hijack.13189/)
 
 Team Fortress 2 (not in TF2)
 
