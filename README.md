@@ -214,6 +214,8 @@ Team Fortress 2
 
 [mvm_cactuscanyon by DominatorBoy97](https://gamebanana.com/mods/288231)
 
+[mvm_casino_city by BigfootBeto](https://tf2maps.net/downloads/casino-city.6194/)
+
 [mvm_crown by Startacker](https://tf2maps.net/downloads/crown.10589/)
 
 [mvm_dockyard by Filmore](https://tf2maps.net/downloads/dockyard.4105/)
@@ -226,11 +228,19 @@ Team Fortress 2
 
 [mvm_hoovydam by Blade x54](https://tf2maps.net/downloads/hoovy-dam.8899/)
 
+[mvm_kelly by Mikroscopic](https://tf2maps.net/downloads/kelly.3982/)
+
+[mvm_rustvalley by Fillmore](https://tf2maps.net/downloads/rust-valley.7652/)
+
 [mvm_oxidize by Asd417](https://tf2maps.net/downloads/oxidize.6009/)
 
 [mvm_sequoia by Freyja](https://tf2maps.net/downloads/sequoia.4131/)
 
 [mvm_sharp by dexc34](https://tf2maps.net/downloads/sharp.8553/)
+
+[mvm_spacepost by Flipy](https://tf2maps.net/downloads/spacepost.4099/)
+
+[mvm_swirl by Asd417](https://tf2maps.net/downloads/mvm_swirl.8913/)
 
 [mvm_underground by Woozlez](https://tf2maps.net/downloads/underground.621/)
 
