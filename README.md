@@ -14,6 +14,8 @@ jb_deconstruction by Ossy Flawol
 
 [jb_executive_bluey by Ossy Flawol](https://gamebanana.com/mods/417328)
 
+[jb_face by Deadhunt49](https://gamebanana.com/mods/412057)
+
 [jb_frizzlesberg by Ossy Flawol](https://gamebanana.com/mods/414670)
 
 jb_jankcentury by Viniyur
