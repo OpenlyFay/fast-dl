@@ -134,8 +134,6 @@ Open Fortress
 
 [mvip_checkmate by AlphaBlaster](https://tf2maps.net/downloads/checkmate-merc-vip.14595/)
 
-[tdm_imperial by fossil](https://tf2maps.net/downloads/imperial.11859/)
-
 Pre-Fortress 2
 
 [ad_avanti by GrassyTrams](https://gamebanana.com/mods/416430)
