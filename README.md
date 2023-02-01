@@ -38,8 +38,6 @@ Open Fortress
 
 [dm_bananabay by Krazy](https://gamebanana.com/mods/308878)
 
-dm_bricks by ficool2
-
 [dm_brutality by Jameson](https://tf2maps.net/downloads/brutality-72h.14314/)
 
 [dm_chateau by Applecakey](https://tf2maps.net/downloads/chateau.12715/)
@@ -47,8 +45,6 @@ dm_bricks by ficool2
 [dm_decoy by jan](https://gamebanana.com/mods/308687)
 
 [dm_drude_dev by Man With No Plan](https://gamebanana.com/mods/151067)
-
-[dm_ghost_town by Savva](https://gamebanana.com/mods/151098)
 
 [dm_hightower_revamp by Spunky](https://tf2maps.net/downloads/dm_hightower_revamp.9535/)
 
@@ -63,8 +59,6 @@ dm_bricks by ficool2
 [dm_longestyard by Bakcratch](https://gamebanana.com/mods/151072)
 
 [dm_metro by Birchly and Eve](https://gamebanana.com/mods/151073)
-
-dm_minecraft by ficool2
 
 [dm_mineville by ThatGreekAvian](https://gamebanana.com/mods/151074)
 
