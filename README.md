@@ -1,5 +1,13 @@
 This is a fast-download for my servers.
 
+Day of Defeat
+
+[ar_badlands by Alex-Road](https://gamebanana.com/mods/63748)
+
+[ar_byre by Alex-Road](https://gamebanana.com/mods/63753)
+
+[dod_sturm by Hptm.Franz](https://gamebanana.com/mods/64716)
+
 Jabroni Brawl
 
 [jb_albatross by AsG_Alligator](https://gamebanana.com/mods/417586)
