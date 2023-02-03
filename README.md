@@ -202,6 +202,8 @@ Team Fortress 2
 
 [boss_jevil by Alpha_Alex](https://gamebanana.com/mods/68856)
 
+[cp_glacier by Acegikmo](https://tf2maps.net/downloads/glacier.14/)
+
 [my_world by Alpha_Alex](https://gamebanana.com/mods/68986)
 
 [mvm_area_52 by Woozlez and Zorbos](https://tf2maps.net/downloads/mvm-area-52.698/)
