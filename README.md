@@ -120,9 +120,9 @@ Open Fortress
 
 [mctf_redplanet by Savva and Spipper](https://gamebanana.com/mods/151129)
 
-[mctf_sootsummit by TheWither01](https://tf2maps.net/downloads/mctf-soot-summit.15037/)
-
 [mctf_turbine by Savva](https://gamebanana.com/mods/151130)
+
+[mctf_tycoon by TheWither01](https://tf2maps.net/downloads/mctf-soot-summit.15037/)
 
 [mdom_checkmate by AlphaBlaster](https://tf2maps.net/downloads/checkmate-merc-dom.14600/)
 
