@@ -8,8 +8,11 @@ Day of Defeat
 
 [dod_sturm by Hptm.Franz](https://gamebanana.com/mods/64716)
 
+<<<<<<< HEAD
 Featuring maps from the Community Assembled Map Pack
 
+=======
+>>>>>>> 3a2614e7dc4e928558fb402d7cde488d699d4f6a
 Jabroni Brawl
 
 [jb_albatross by AsG_Alligator](https://gamebanana.com/mods/417586)
@@ -158,7 +161,7 @@ Pre-Fortress 2
 
 [arena_gravelbridgepit by GrassyTrams](https://gamebanana.com/mods/422017)
 
-cp_gravelcube by Zoe TBH
+cp_gravelcube by ZoeTBH
 
 [ctf_classic_2fort_pf2 by Suomimies55](https://gamebanana.com/mods/413220)
 
