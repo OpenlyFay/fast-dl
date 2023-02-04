@@ -8,11 +8,8 @@ Day of Defeat
 
 [dod_sturm by Hptm.Franz](https://gamebanana.com/mods/64716)
 
-<<<<<<< HEAD
 Featuring maps from the Community Assembled Map Pack
 
-=======
->>>>>>> 3a2614e7dc4e928558fb402d7cde488d699d4f6a
 Jabroni Brawl
 
 [jb_albatross by AsG_Alligator](https://gamebanana.com/mods/417586)
