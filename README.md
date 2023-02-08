@@ -102,7 +102,7 @@ Open Fortress
 
 [duel_apple by AppleCakey](https://tf2maps.net/downloads/apple-duel-edit.11926/)
 
-duel_bloodrun by DrPySpy and fossil
+duel_bloodrun by DrPySpy, edits by fossil
 
 [duel_excalibur by fossil](https://tf2maps.net/downloads/excalibur.12659/)
 
@@ -120,7 +120,7 @@ duel_bloodrun by DrPySpy and fossil
 
 [duel_spiral by TheGibusGuy](https://tf2maps.net/downloads/spiral.12724/)
 
-duel_trainyard by jan and fossil
+duel_trainyard by jan, edits by fossil
 
 [duel_wheatmill by fossil](https://tf2maps.net/downloads/wheatmill.12878/)
 
