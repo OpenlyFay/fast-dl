@@ -184,6 +184,12 @@ Team Fortress 2 Classic
 
 [arena_gravelpit by HDMine_face](https://gamebanana.com/mods/422564)
 
+[aplr_tinyrock by Muddy](https://tf2maps.net/downloads/tiny-rock.14422/)
+
+[cp_glacier by Acegikmo](https://tf2maps.net/downloads/glacier.14/)
+
+[ctf_haarp by Dr. Spid](https://tf2maps.net/downloads/haarp.24/)
+
 [dom_5gorge by stovven](https://gamebanana.com/mods/56216)
 
 [dom_badwater by Wheatttt](https://gamebanana.com/mods/309956)
@@ -200,19 +206,17 @@ Team Fortress 2 Classic
 
 [vip_dover by Lev1679](https://tf2maps.net/downloads/vip_dover.13199/)
 
+[vip_haarp_classic by Mr. Skullium](https://drive.google.com/file/d/1d-SnxpCm40Ga9gButlRZt5Ce3SjOUBoy/view)
+
 [vip_upward by Technochips](https://tf2maps.net/downloads/vip_upward.13091/)
 
 [vipr_hijack by TrustyGun](https://tf2maps.net/downloads/vipr_hijack.13189/)
 
 Team Fortress 2
 
-[aplr_tinyrock by Muddy](https://tf2maps.net/downloads/tiny-rock.14422/)
-
 [boss_big_shot by Alpha_Alex](https://gamebanana.com/mods/355491)
 
 [boss_jevil by Alpha_Alex](https://gamebanana.com/mods/68856)
-
-[cp_glacier by Acegikmo](https://tf2maps.net/downloads/glacier.14/)
 
 [my_world by Alpha_Alex](https://gamebanana.com/mods/68986)
 
