@@ -102,6 +102,8 @@ Open Fortress
 
 [duel_apple by AppleCakey](https://tf2maps.net/downloads/apple-duel-edit.11926/)
 
+[duel_bloodrun by DrPySpy and Fossil]
+
 [duel_butter by Jameson](https://tf2maps.net/downloads/butter.14987/)
 
 [duel_catalyst by fossil](https://tf2maps.net/downloads/the-catalyst.12074/)
