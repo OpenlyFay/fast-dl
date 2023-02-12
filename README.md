@@ -94,6 +94,8 @@ Open Fortress
 
 [dm_trainyard by jan](https://gamebanana.com/mods/313810)
 
+[dm_venice by Agameofscones and jan](https://gamebanana.com/mods/427113)
+
 [duel_adrift by Jameson](https://tf2maps.net/downloads/adrift.13046/)
 
 [duel_advent by TheBattyOne](https://tf2maps.net/downloads/advent.14590/)
@@ -141,6 +143,8 @@ duel_trainyard by jan, edits by fossil
 [mdom_lithos by Jameson](https://tf2maps.net/downloads/lithos.15035/)
 
 [mdom_painhouse by jan](https://tf2maps.net/downloads/mdom-painhouse.14616/)
+
+[mdom_venice by Agameofscones and jan](https://gamebanana.com/mods/427115)
 
 [mvip_checkmate by AlphaBlaster](https://tf2maps.net/downloads/checkmate-merc-vip.14595/)
 
