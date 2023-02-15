@@ -96,6 +96,8 @@ jb_miningdrill by the sun is my son
 
 [jb_portal_bts by bubbyboytoo](https://gamebanana.com/mods/412105)
 
+[jb_svt_militia by TheOnly8Z](https://gamebanana.com/mods/427410)
+
 Open Fortress
 
 [dm_apple by Applecakey](https://tf2maps.net/downloads/apple.11921/)
