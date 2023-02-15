@@ -34,7 +34,7 @@ Counter-Strike: Source
 
 [de_cpl_mill by Cross](https://gamebanana.com/mods/101644)
 
-[de_dust2_green by Brez$$z])(https://gamebanana.com/mods/101977)
+[de_dust2_green by Brez$$z](https://gamebanana.com/mods/101977)
 
 [de_feat by Redbodega](https://gamebanana.com/mods/102351)
 
@@ -171,8 +171,6 @@ duel_bloodrun by DrPySpy, edits by fossil
 [duel_manncorp by fossil](https://tf2maps.net/downloads/mann-corp.13272/)
 
 [duel_seawalk by fossil](https://tf2maps.net/downloads/seawalk.11966/)
-
-[duel_shippery by fossil](https://tf2maps.net/downloads/shippery.12668/)
 
 [duel_skybreak by Jameson](https://tf2maps.net/downloads/skybreak.12766/)
 
