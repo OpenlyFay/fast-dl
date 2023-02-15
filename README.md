@@ -248,6 +248,8 @@ Team Fortress 2 Classic
 
 [cp_glacier by Acegikmo](https://tf2maps.net/downloads/glacier.14/)
 
+[cp_zinkenite by Rexy](https://tf2maps.net/downloads/zinkenite.22/)
+
 [ctf_haarp by Dr. Spid](https://tf2maps.net/downloads/haarp.24/)
 
 [dom_5gorge by stovven](https://gamebanana.com/mods/56216)
