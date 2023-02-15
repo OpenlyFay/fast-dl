@@ -34,7 +34,7 @@ Counter-Strike: Source
 
 [de_cpl_mill by Cross](https://gamebanana.com/mods/101644)
 
-[de_dust2_green by Brez$$z])(https://gamebanana.com/mods/101977)
+[de_dust2_green by Brez$$z](https://gamebanana.com/mods/101977)
 
 [de_feat by Redbodega](https://gamebanana.com/mods/102351)
 
