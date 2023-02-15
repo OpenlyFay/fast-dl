@@ -1,5 +1,61 @@
 This is a fast-download for my servers.
 
+Counter-Strike: Source
+
+[cs_assault_2005](https://gamebanana.com/mods/99526)
+
+[cs_assault_hostel by fenceareus](https://gamebanana.com/mods/99538)
+
+[cs_castlepa by Bomook](https://gamebanana.com/mods/99673)
+
+[cs_deadhouse by NIPPER](https://gamebanana.com/mods/99810)
+
+[cs_drugbust by malfuncti0n](https://gamebanana.com/mods/99851)
+
+[cs_favela by Jakobjj](https://gamebanana.com/mods/99905)
+
+[cs_harborbank by SM Sith Lord](https://gamebanana.com/mods/99957)
+
+[cs_mansion_classic by TheRaZZeRApp](https://gamebanana.com/mods/100118)
+
+[cs_motel by Hightower](https://gamebanana.com/mods/100175)
+
+[cs_night_school by Slava SL](https://gamebanana.com/mods/100220)
+
+[cs_parkhouse by NIPPER](https://gamebanana.com/mods/100327)
+
+[cs_rio_source by fmpfmp](https://gamebanana.com/mods/100390)
+
+[de_booskoop by catfood](https://gamebanana.com/mods/101249)
+
+[de_cache by Volcano](https://gamebanana.com/mods/101335)
+
+[de_contra by Superjer](https://gamebanana.com/mods/101600)
+
+[de_cpl_mill by Cross](https://gamebanana.com/mods/101644)
+
+[de_dust2_green by Brez$$z])(https://gamebanana.com/mods/101977)
+
+[de_feat by Redbodega](https://gamebanana.com/mods/102351)
+
+[de_kyoto by ph3nyx](https://gamebanana.com/mods/102896)
+
+[de_losttemple by Magikus](https://gamebanana.com/mods/102998)
+
+[de_losttemple_pro by Magikus](https://gamebanana.com/mods/103001)
+
+[de_mirage_rc1 by Dreakhack](https://gamebanana.com/mods/103189)
+
+[de_outlaws by propaganda](https://gamebanana.com/mods/103415)
+
+[de_russka by Brute](https://gamebanana.com/mods/103780)
+
+[de_season by cashed](https://gamebanana.com/mods/103893)
+
+[de_survivor_css by SM Sith Lord](https://gamebanana.com/mods/104206)
+
+[de_tuscan by Brute](https://gamebanana.com/mods/104453)
+
 Day of Defeat
 
 [ar_badlands by Alex-Road](https://gamebanana.com/mods/63748)
@@ -8,7 +64,7 @@ Day of Defeat
 
 [dod_sturm by Hptm.Franz](https://gamebanana.com/mods/64716)
 
-Featuring maps from the Community Assembled Map Pack
+[Featuring maps from the Community Assembled Map Pack](https://www.moddb.com/games/day-of-defeat-source/addons/camp-2-pack)
 
 Jabroni Brawl
 
@@ -93,6 +149,8 @@ Open Fortress
 [dm_staple by KubeRuns](https://gamebanana.com/mods/151113)
 
 [dm_trainyard by jan](https://gamebanana.com/mods/313810)
+
+[dm_turbine by Edwin](https://gamebanana.com/mods/427735)
 
 [dm_venice by Agameofscones and jan](https://gamebanana.com/mods/427113)
 
