@@ -108,6 +108,8 @@ Open Fortress
 
 [dm_brutality by Jameson](https://tf2maps.net/downloads/brutality-72h.14314/)
 
+[dm_campgrounds by jan](https://gamebanana.com/mods/428727)
+
 [dm_chateau by Applecakey](https://tf2maps.net/downloads/chateau.12715/)
 
 [dm_decoy by jan](https://gamebanana.com/mods/308687)
