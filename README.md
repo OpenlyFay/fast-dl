@@ -224,6 +224,8 @@ Pre-Fortress 2
 
 cp_gravelcube by ZoeTBH
 
+[cp_lazytown by Zeta Snakes, ported by SBR0607](https://gamebanana.com/mods/429526)
+
 [ctf_classic_2fort_pf2 by Suomimies55](https://gamebanana.com/mods/413220)
 
 [ctf_epicenter by GrassyTrams](https://gamebanana.com/mods/416839)
