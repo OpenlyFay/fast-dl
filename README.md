@@ -130,8 +130,6 @@ Open Fortress
 
 [dm_metro by Birchly and Eve](https://gamebanana.com/mods/151073)
 
-[dm_mineville by ThatGreekAvian](https://gamebanana.com/mods/151074)
-
 [dm_nucleus by HDMine_Face](https://gamebanana.com/mods/151109)
 
 [dm_nuclide by SunaTF2](https://gamebanana.com/mods/151110)
