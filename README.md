@@ -232,6 +232,10 @@ cp_gravelcube by ZoeTBH
 
 [koth_harvest_pf2 by JJFortJ](https://gamebanana.com/mods/412905)
 
+[plr_pinecrest_pf2 by GaijinViking](https://gamebanana.com/mods/430556)
+
+[plr_pipeline_pf2 by GaijinViking](https://gamebanana.com/mods/431737)
+
 Team Fortress 2 Classic
 
 [4koth_badlands by sniffy194](https://tf2maps.net/downloads/4koth_badlands-4-team-badlands.13100/)
