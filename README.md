@@ -232,6 +232,8 @@ cp_gravelcube by ZoeTBH
 
 [koth_harvest_pf2 by JJFortJ](https://gamebanana.com/mods/412905)
 
+[pl_borneo_pf2 by Makako](https://gamebanana.com/mods/416301)
+
 [plr_pinecrest_pf2 by GaijinViking](https://gamebanana.com/mods/430556)
 
 [plr_pipeline_pf2 by GaijinViking](https://gamebanana.com/mods/431737)
