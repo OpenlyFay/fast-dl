@@ -246,7 +246,11 @@ Team Fortress 2 Classic
 
 [arena_4plex by PugFug](https://gamebanana.com/mods/56256)
 
+[arena_4ravine by Milkman67](https://gamebanana.com/mods/422119)
+
 [arena_4well by Suomimies55 and Flipy](https://gamebanana.com/mods/309922)
+
+arena_byre by idolon
 
 [arena_command by qualitycont and Bill Shit](https://gamebanana.com/mods/56257)
 
@@ -265,6 +269,8 @@ Team Fortress 2 Classic
 [dom_5gorge by stovven](https://gamebanana.com/mods/56216)
 
 [dom_badwater by Wheatttt](https://gamebanana.com/mods/309956)
+
+[dom_byre by Lev1679](https://gamebanana.com/mods/56221)
 
 [dom_cliffhanger_tf2c by queensizedsofa and Zewl33t](https://gamebanana.com/mods/56223)
 
