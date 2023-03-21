@@ -108,15 +108,11 @@ Open Fortress
 
 [dm_brutality by Jameson](https://tf2maps.net/downloads/brutality-72h.14314/)
 
-[dm_campgrounds by jan](https://gamebanana.com/mods/428727)
-
 [dm_chateau by Applecakey](https://tf2maps.net/downloads/chateau.12715/)
 
 [dm_decoy by jan](https://gamebanana.com/mods/308687)
 
 [dm_drude_dev by Man With No Plan](https://gamebanana.com/mods/151067)
-
-[dm_hightower_revamp by Spunky](https://tf2maps.net/downloads/dm_hightower_revamp.9535/)
 
 [dm_hollow by Savva](https://gamebanana.com/mods/151101)
 
@@ -140,15 +136,11 @@ Open Fortress
 
 [dm_process by Horiuchi](https://gamebanana.com/mods/151111)
 
-[dm_purple by littlefirez](https://gamebanana.com/mods/385024)
-
 [dm_renegade by Jameson](https://tf2maps.net/downloads/renegade.11822/)
 
 [dm_report by Eleetpancake](https://gamebanana.com/mods/151080)
 
 [dm_soil by Rhamkin](https://tf2maps.net/downloads/dm_soil.13093/)
-
-[dm_staple by KubeRuns](https://gamebanana.com/mods/151113)
 
 [dm_trainyard by jan](https://gamebanana.com/mods/313810)
 
@@ -157,8 +149,6 @@ Open Fortress
 [dm_venice by Agameofscones and jan](https://gamebanana.com/mods/427113)
 
 [duel_adrift by Jameson](https://tf2maps.net/downloads/adrift.13046/)
-
-[duel_advent by TheBattyOne](https://tf2maps.net/downloads/advent.14590/)
 
 [duel_amazon by fossil](https://tf2maps.net/downloads/amazon.12811/)
 
@@ -203,8 +193,6 @@ duel_trainyard by jan, edits by fossil
 [mdom_painhouse by jan](https://tf2maps.net/downloads/mdom-painhouse.14616/)
 
 [mdom_venice by Agameofscones and jan](https://gamebanana.com/mods/427115)
-
-[mvip_checkmate by AlphaBlaster](https://tf2maps.net/downloads/checkmate-merc-vip.14595/)
 
 Pre-Fortress 2
 
