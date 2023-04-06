@@ -112,13 +112,9 @@ Open Fortress
 
 [dm_decoy by jan](https://gamebanana.com/mods/308687)
 
-[dm_drude_dev by Man With No Plan](https://gamebanana.com/mods/151067)
-
 [dm_hollow by Savva](https://gamebanana.com/mods/151101)
 
 [dm_kong_king by JustSparky](https://gamebanana.com/mods/151104)
-
-[dm_landfall by MrSkyBlue1020](https://tf2maps.net/downloads/landfall-night-of-deathmatch.13115/)
 
 [dm_lolcano by JustSparky](https://gamebanana.com/mods/151105)
 
@@ -127,8 +123,6 @@ Open Fortress
 [dm_metro by Birchly and Eve](https://gamebanana.com/mods/151073)
 
 dm_milehigh by the sun is my son
-
-[dm_nucleus by HDMine_Face](https://gamebanana.com/mods/151109)
 
 [dm_nuclide by SunaTF2](https://gamebanana.com/mods/151110)
 
@@ -139,10 +133,6 @@ dm_milehigh by the sun is my son
 [dm_process by Horiuchi](https://gamebanana.com/mods/151111)
 
 [dm_renegade by Jameson](https://tf2maps.net/downloads/renegade.11822/)
-
-[dm_report by Eleetpancake](https://gamebanana.com/mods/151080)
-
-[dm_soil by Rhamkin](https://tf2maps.net/downloads/dm_soil.13093/)
 
 [dm_trainyard by jan](https://gamebanana.com/mods/313810)
 
@@ -186,15 +176,9 @@ duel_trainyard by jan, edits by fossil
 
 [mctf_tycoon by TheWither01](https://tf2maps.net/downloads/mctf-soot-summit.15037/)
 
-[mdom_checkmate by AlphaBlaster](https://tf2maps.net/downloads/checkmate-merc-dom.14600/)
-
 [mdom_dusk by Luchious](https://gamebanana.com/mods/404848)
 
 [mdom_lithos by Jameson](https://tf2maps.net/downloads/lithos.15035/)
-
-[mdom_painhouse by jan](https://tf2maps.net/downloads/mdom-painhouse.14616/)
-
-[mdom_venice by Agameofscones and jan](https://gamebanana.com/mods/427115)
 
 Pre-Fortress 2
 
