@@ -1,71 +1,5 @@
 This is a fast-download for my servers.
 
-Counter-Strike: Source
-
-[cs_assault_2005](https://gamebanana.com/mods/99526)
-
-[cs_assault_hostel by fenceareus](https://gamebanana.com/mods/99538)
-
-[cs_castlepa by Bomook](https://gamebanana.com/mods/99673)
-
-[cs_deadhouse by NIPPER](https://gamebanana.com/mods/99810)
-
-[cs_drugbust by malfuncti0n](https://gamebanana.com/mods/99851)
-
-[cs_favela by Jakobjj](https://gamebanana.com/mods/99905)
-
-[cs_harborbank by SM Sith Lord](https://gamebanana.com/mods/99957)
-
-[cs_mansion_classic by TheRaZZeRApp](https://gamebanana.com/mods/100118)
-
-[cs_motel by Hightower](https://gamebanana.com/mods/100175)
-
-[cs_night_school by Slava SL](https://gamebanana.com/mods/100220)
-
-[cs_parkhouse by NIPPER](https://gamebanana.com/mods/100327)
-
-[cs_rio_source by fmpfmp](https://gamebanana.com/mods/100390)
-
-[de_booskoop by catfood](https://gamebanana.com/mods/101249)
-
-[de_cache by Volcano](https://gamebanana.com/mods/101335)
-
-[de_contra by Superjer](https://gamebanana.com/mods/101600)
-
-[de_cpl_mill by Cross](https://gamebanana.com/mods/101644)
-
-[de_dust2_green by Brez$$z](https://gamebanana.com/mods/101977)
-
-[de_feat by Redbodega](https://gamebanana.com/mods/102351)
-
-[de_kyoto by ph3nyx](https://gamebanana.com/mods/102896)
-
-[de_losttemple by Magikus](https://gamebanana.com/mods/102998)
-
-[de_losttemple_pro by Magikus](https://gamebanana.com/mods/103001)
-
-[de_mirage_rc1 by Dreakhack](https://gamebanana.com/mods/103189)
-
-[de_outlaws by propaganda](https://gamebanana.com/mods/103415)
-
-[de_russka by Brute](https://gamebanana.com/mods/103780)
-
-[de_season by cashed](https://gamebanana.com/mods/103893)
-
-[de_survivor_css by SM Sith Lord](https://gamebanana.com/mods/104206)
-
-[de_tuscan by Brute](https://gamebanana.com/mods/104453)
-
-Day of Defeat
-
-[ar_badlands by Alex-Road](https://gamebanana.com/mods/63748)
-
-[ar_byre by Alex-Road](https://gamebanana.com/mods/63753)
-
-[dod_sturm by Hptm.Franz](https://gamebanana.com/mods/64716)
-
-[Featuring maps from the Community Assembled Map Pack](https://www.moddb.com/games/day-of-defeat-source/addons/camp-2-pack)
-
 Jabroni Brawl
 
 [jb_albatross by AsG_Alligator](https://gamebanana.com/mods/417586)
@@ -102,11 +36,7 @@ Open Fortress
 
 [dm_apple by Applecakey](https://tf2maps.net/downloads/apple.11921/)
 
-[dm_arid by TheWither031](https://tf2maps.net/downloads/arid.14373/)
-
 [dm_bananabay by Krazy](https://gamebanana.com/mods/308878)
-
-[dm_brutality by Jameson](https://tf2maps.net/downloads/brutality-72h.14314/)
 
 [dm_chateau by Applecakey](https://tf2maps.net/downloads/chateau.12715/)
 
@@ -114,45 +44,15 @@ Open Fortress
 
 [dm_hollow by Savva](https://gamebanana.com/mods/151101)
 
-[dm_kong_king by JustSparky](https://gamebanana.com/mods/151104)
-
-[dm_lolcano by JustSparky](https://gamebanana.com/mods/151105)
-
-[dm_longestyard by Bakcratch](https://gamebanana.com/mods/151072)
-
 [dm_metro by Birchly and Eve](https://gamebanana.com/mods/151073)
-
-dm_milehigh by the sun is my son
-
-[dm_nuclide by SunaTF2](https://gamebanana.com/mods/151110)
-
-[dm_onett by jan](https://gamebanana.com/mods/405838)
 
 [dm_petra by Krazy](https://gamebanana.com/mods/151077)
 
-[dm_process by Horiuchi](https://gamebanana.com/mods/151111)
-
-[dm_renegade by Jameson](https://tf2maps.net/downloads/renegade.11822/)
-
 [dm_trainyard by jan](https://gamebanana.com/mods/313810)
-
-[dm_turbine by Edwin](https://gamebanana.com/mods/427844)
-
-[dm_venice by Agameofscones and jan](https://gamebanana.com/mods/427113)
-
-[duel_adrift by Jameson](https://tf2maps.net/downloads/adrift.13046/)
 
 [duel_amazon by fossil](https://tf2maps.net/downloads/amazon.12811/)
 
 [duel_apple by AppleCakey](https://tf2maps.net/downloads/apple-duel-edit.11926/)
-
-duel_bloodrun by DrPySpy, edits by fossil
-
-[duel_excalibur by fossil](https://tf2maps.net/downloads/excalibur.12659/)
-
-[duel_geoteknik by fossil and Applecakey](https://tf2maps.net/downloads/geoteknik.12689/)
-
-[duel_manncorp by fossil](https://tf2maps.net/downloads/mann-corp.13272/)
 
 [duel_seawalk by fossil](https://tf2maps.net/downloads/seawalk.11966/)
 
@@ -160,99 +60,27 @@ duel_bloodrun by DrPySpy, edits by fossil
 
 [duel_sloth by Jameson](https://tf2maps.net/downloads/sloth.12710/)
 
-[duel_spiral by TheGibusGuy](https://tf2maps.net/downloads/spiral.12724/)
-
-duel_trainyard by jan, edits by fossil
-
 [duel_wheatmill by fossil](https://tf2maps.net/downloads/wheatmill.12878/)
-
-[mctf_badlands by Savva](https://gamebanana.com/mods/151124)
-
-[mctf_doublecross by Savva](https://gamebanana.com/mods/151125)
-
-[mctf_redplanet by Savva and Spipper](https://gamebanana.com/mods/151129)
-
-[mctf_turbine by Savva](https://gamebanana.com/mods/151130)
-
-[mctf_tycoon by TheWither01](https://tf2maps.net/downloads/mctf-soot-summit.15037/)
-
-[mdom_dusk by Luchious](https://gamebanana.com/mods/404848)
-
-[mdom_lithos by Jameson](https://tf2maps.net/downloads/lithos.15035/)
-
-Pre-Fortress 2
-
-[ad_avanti by GrassyTrams](https://gamebanana.com/mods/416430)
-
-[ad_bridge by GrassyTrams](https://gamebanana.com/mods/421431)
-
-[ad_egypt by Suomimies55](https://gamebanana.com/mods/413826)
-
-[ad_steel by Makako](https://gamebanana.com/mods/418364)
-
-[arena_2fort by Mr Malos](https://mr-malos.itch.io/arena-2fort)
-
-[arena_gravelbridgepit by GrassyTrams](https://gamebanana.com/mods/422017)
-
-cp_gravelcube by ZoeTBH
-
-[cp_lazytown by Zeta Snakes, ported by SBR0607](https://gamebanana.com/mods/429526)
-
-[ctf_classic_2fort_pf2 by Suomimies55](https://gamebanana.com/mods/413220)
-
-[ctf_epicenter by GrassyTrams](https://gamebanana.com/mods/416839)
-
-[invade_well by Makako](https://gamebanana.com/mods/416601)
-
-[koth_harvest_pf2 by JJFortJ](https://gamebanana.com/mods/412905)
-
-[pl_borneo_pf2 by Makako](https://gamebanana.com/mods/416301)
-
-[plr_pinecrest_pf2 by GaijinViking](https://gamebanana.com/mods/430556)
-
-[plr_pipeline_pf2 by GaijinViking](https://gamebanana.com/mods/431737)
 
 Team Fortress 2 Classic
 
 [4koth_badlands by sniffy194](https://tf2maps.net/downloads/4koth_badlands-4-team-badlands.13100/)
 
-[arena_4offblast by shurbrrt](https://gamebanana.com/mods/56254)
-
 [arena_4plex by PugFug](https://gamebanana.com/mods/56256)
 
-[arena_4ravine by Milkman67](https://gamebanana.com/mods/422119)
-
 [arena_4well by Suomimies55 and Flipy](https://gamebanana.com/mods/309922)
-
-arena_byre by idolon
-
-[arena_command by qualitycont and Bill Shit](https://gamebanana.com/mods/56257)
-
-[arena_floodgate by Savva](https://tf2maps.net/downloads/floodgate.13089/)
 
 [arena_gravelpit by HDMine_face](https://gamebanana.com/mods/422564)
 
 [aplr_tinyrock by Muddy](https://tf2maps.net/downloads/tiny-rock.14422/)
 
-[cp_glacier by Acegikmo](https://tf2maps.net/downloads/glacier.14/)
-
-[cp_zinkenite by Rexy](https://tf2maps.net/downloads/zinkenite.22/)
-
 [ctf_haarp by Dr. Spid](https://tf2maps.net/downloads/haarp.24/)
-
-[dom_5gorge by stovven](https://gamebanana.com/mods/56216)
-
-[dom_badwater by Wheatttt](https://gamebanana.com/mods/309956)
 
 [dom_byre by Lev1679](https://gamebanana.com/mods/56221)
 
 [dom_cliffhanger_tf2c by queensizedsofa and Zewl33t](https://gamebanana.com/mods/56223)
 
-[dom_dorkham by Lev1679](https://tf2maps.net/downloads/dom_dorkham.13294/)
-
 [dom_steel by Savva](https://tf2maps.net/downloads/steel-domination.13090/)
-
-[koth_fourmill by stovven](https://gamebanana.com/mods/56237)
 
 [tc_national by 14bit](https://tf2maps.net/downloads/tc-national-tf2c.14991/)
 
@@ -263,49 +91,3 @@ arena_byre by idolon
 [vip_upward by Technochips](https://tf2maps.net/downloads/vip_upward.13091/)
 
 [vipr_hijack by TrustyGun](https://tf2maps.net/downloads/vipr_hijack.13189/)
-
-Team Fortress 2
-
-[boss_big_shot by Alpha_Alex](https://gamebanana.com/mods/355491)
-
-[boss_jevil by Alpha_Alex](https://gamebanana.com/mods/68856)
-
-[my_world by Alpha_Alex](https://gamebanana.com/mods/68986)
-
-[mvm_area_52 by Woozlez and Zorbos](https://tf2maps.net/downloads/mvm-area-52.698/)
-
-[mvm_cactuscanyon by DominatorBoy97](https://gamebanana.com/mods/288231)
-
-[mvm_casino_city by BigfootBeto](https://tf2maps.net/downloads/casino-city.6194/)
-
-[mvm_crown by Startacker](https://tf2maps.net/downloads/crown.10589/)
-
-[mvm_dockyard by Filmore](https://tf2maps.net/downloads/dockyard.4105/)
-
-[mvm_dusk by Smrekish](https://tf2maps.net/downloads/dusk.8946/)
-
-[mvm_estate by Erk](https://tf2maps.net/downloads/mvm_estate.3966/)
-
-[mvm_goldpit by Asd417](https://tf2maps.net/downloads/goldpit.7115/)
-
-[mvm_hoovydam by Blade x54](https://tf2maps.net/downloads/hoovy-dam.8899/)
-
-[mvm_kelly by Mikroscopic](https://tf2maps.net/downloads/kelly.3982/)
-
-[mvm_rustvalley by Fillmore](https://tf2maps.net/downloads/rust-valley.7652/)
-
-[mvm_oxidize by Asd417](https://tf2maps.net/downloads/oxidize.6009/)
-
-[mvm_sequoia by Freyja](https://tf2maps.net/downloads/sequoia.4131/)
-
-[mvm_sharp by dexc34](https://tf2maps.net/downloads/sharp.8553/)
-
-[mvm_spacepost by Flipy](https://tf2maps.net/downloads/spacepost.4099/)
-
-[mvm_swirl by Asd417](https://tf2maps.net/downloads/mvm_swirl.8913/)
-
-[mvm_underground by Woozlez](https://tf2maps.net/downloads/underground.621/)
-
-[mvm_waterfront by signalmanx](https://tf2maps.net/downloads/waterfront.4140/)
-
-[mvm_yiresa by PigPig](https://tf2maps.net/downloads/mvm_yiresa.9436/)
