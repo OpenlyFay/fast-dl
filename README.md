@@ -48,7 +48,7 @@ Open Fortress
 
 [dm_petra by Krazy](https://gamebanana.com/mods/151077)
 
-[dm_plateau by TheWither031](https://tf2maps.net/downloads/plateau.15273/
+[dm_plateau by TheWither031](https://tf2maps.net/downloads/plateau.15273/)
 
 [dm_trainyard by jan](https://gamebanana.com/mods/313810)
 
