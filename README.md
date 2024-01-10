@@ -4,8 +4,6 @@ Jabroni Brawl
 
 [jb_albatross by AsG_Alligator](https://gamebanana.com/mods/417586)
 
-[jb_badlands by SweetieBud](https://gamebanana.com/mods/413590)
-
 [jb_bigbillsfactory by the sun is my son](https://gamebanana.com/mods/421247)
 
 [jb_convoy by AsG_Alligator](https://gamebanana.com/mods/414094)
@@ -28,13 +26,13 @@ jb_miningdrill by the sun is my son
 
 [jb_passionpit by CabooseJr](https://gamebanana.com/mods/411842)
 
-[jb_portal_bts by bubbyboytoo](https://gamebanana.com/mods/412105)
-
 [jb_svt_militia by TheOnly8Z](https://gamebanana.com/mods/427410)
 
 Open Fortress
 
 [dm_apple by Applecakey](https://tf2maps.net/downloads/apple.11921/)
+
+[dm_arid by TheWither031](https://tf2maps.net/downloads/arid.14373/)
 
 [dm_bananabay by Krazy](https://gamebanana.com/mods/308878)
 
@@ -46,13 +44,19 @@ Open Fortress
 
 [dm_metro by Birchly and Eve](https://gamebanana.com/mods/151073)
 
+[dm_miami by yeah right](https://tf2maps.net/downloads/miami.15607/)
+
 [dm_petra by Krazy](https://gamebanana.com/mods/151077)
+
+[dm_plateau by TheWither031](https://tf2maps.net/downloads/plateau.15273/
 
 [dm_trainyard by jan](https://gamebanana.com/mods/313810)
 
 [duel_amazon by fossil](https://tf2maps.net/downloads/amazon.12811/)
 
 [duel_apple by AppleCakey](https://tf2maps.net/downloads/apple-duel-edit.11926/)
+
+[duel_contamination by ZaChelbom](https://tf2maps.net/downloads/contamination.15352/)
 
 [duel_seawalk by fossil](https://tf2maps.net/downloads/seawalk.11966/)
 
@@ -68,6 +72,8 @@ Team Fortress 2 Classic
 
 [arena_4plex by PugFug](https://gamebanana.com/mods/56256)
 
+[arena_4walls by ASDF1308](https://gamebanana.com/mods/442373)
+
 [arena_4well by Suomimies55 and Flipy](https://gamebanana.com/mods/309922)
 
 [arena_gravelpit by HDMine_face](https://gamebanana.com/mods/422564)
@@ -76,11 +82,15 @@ Team Fortress 2 Classic
 
 [ctf_haarp by Dr. Spid](https://tf2maps.net/downloads/haarp.24/)
 
+[dom_barnfield_a3 by Lev1679](https://tf2maps.net/downloads/dom_barnfield.13294/)
+
 [dom_byre by Lev1679](https://gamebanana.com/mods/56221)
 
 [dom_cliffhanger_tf2c by queensizedsofa and Zewl33t](https://gamebanana.com/mods/56223)
 
 [dom_steel by Savva](https://tf2maps.net/downloads/steel-domination.13090/)
+
+[koth_rotunda by Brokkhouse](https://tf2maps.net/downloads/rotunda-tf2c.15505/)
 
 [tc_national by 14bit](https://tf2maps.net/downloads/tc-national-tf2c.14991/)
 
