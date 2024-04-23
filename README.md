@@ -30,6 +30,8 @@ jb_miningdrill by the sun is my son
 
 Open Fortress
 
+[dm_advent by Greenie](https://tf2maps.net/downloads/dm_advent.16054/)
+
 [dm_apple by Applecakey](https://tf2maps.net/downloads/apple.11921/)
 
 [dm_arid by TheWither031](https://tf2maps.net/downloads/arid.14373/)
@@ -40,7 +42,11 @@ Open Fortress
 
 [dm_decoy by jan](https://gamebanana.com/mods/308687)
 
+dm_frizzlesberg by Ossy Flawol
+
 [dm_hollow by Savva](https://gamebanana.com/mods/151101)
+
+[dm_kong_king by JustSparky](https://gamebanana.com/mods/151104)
 
 [dm_metro by Birchly and Eve](https://gamebanana.com/mods/151073)
 
@@ -58,6 +64,8 @@ Open Fortress
 
 [duel_contamination by ZaChelbom](https://tf2maps.net/downloads/contamination.15352/)
 
+[duel_manncorp by fossil](https://tf2maps.net/downloads/mann-corp.13272/)
+
 [duel_seawalk by fossil](https://tf2maps.net/downloads/seawalk.11966/)
 
 [duel_skybreak by Jameson](https://tf2maps.net/downloads/skybreak.12766/)
@@ -65,6 +73,14 @@ Open Fortress
 [duel_sloth by Jameson](https://tf2maps.net/downloads/sloth.12710/)
 
 [duel_wheatmill by fossil](https://tf2maps.net/downloads/wheatmill.12878/)
+
+[mctf_badlands by Savva](https://gamebanana.com/mods/151124
+
+[mctf_doublecross by Savva](https://gamebanana.com/mods/151125)
+
+[mctf_redplanet by Savva and Spipper](https://gamebanana.com/mods/151129)
+
+[mdom_celestialresort by TheWither01](https://tf2maps.net/downloads/celestial-resort.15938/)
 
 Team Fortress 2 Classic
 
