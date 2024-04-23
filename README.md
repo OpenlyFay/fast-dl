@@ -44,6 +44,8 @@ Open Fortress
 
 dm_frizzlesberg by Ossy Flawol
 
+dm_graymannsfactory by the sun is my son
+
 [dm_hollow by Savva](https://gamebanana.com/mods/151101)
 
 [dm_kong_king by JustSparky](https://gamebanana.com/mods/151104)
@@ -51,6 +53,8 @@ dm_frizzlesberg by Ossy Flawol
 [dm_metro by Birchly and Eve](https://gamebanana.com/mods/151073)
 
 [dm_miami by yeah right](https://tf2maps.net/downloads/miami.15607/)
+
+dm_silhouette_dev2 by the sun is my son
 
 [dm_petra by Krazy](https://gamebanana.com/mods/151077)
 
