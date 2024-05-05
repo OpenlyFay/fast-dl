@@ -56,29 +56,31 @@ dm_graymannsfactory by the sun is my son
 
 dm_silhouette_dev2 by the sun is my son
 
-[dm_petra by Krazy](https://gamebanana.com/mods/151077)
+[dm_snarkpit by The Supreme Meme Lord](https://tf2maps.net/downloads/dm_snarkpit.17491/)
+
+[dm_petra by KrazyZark](https://gamebanana.com/mods/151077)
 
 [dm_plateau by TheWither031](https://tf2maps.net/downloads/plateau.15273/)
 
 [dm_trainyard by jan](https://gamebanana.com/mods/313810)
 
-[duel_amazon by fossil](https://tf2maps.net/downloads/amazon.12811/)
+[duel_amazon by d3adfin(https://tf2maps.net/downloads/amazon.12811/)
 
 [duel_apple by AppleCakey](https://tf2maps.net/downloads/apple-duel-edit.11926/)
 
 [duel_contamination by ZaChelbom](https://tf2maps.net/downloads/contamination.15352/)
 
-[duel_manncorp by fossil](https://tf2maps.net/downloads/mann-corp.13272/)
+[duel_manncorp by d3adfin](https://tf2maps.net/downloads/mann-corp.13272/)
 
-[duel_seawalk by fossil](https://tf2maps.net/downloads/seawalk.11966/)
+[duel_seawalk by d3adfin](https://tf2maps.net/downloads/seawalk.11966/)
 
 [duel_skybreak by Jameson](https://tf2maps.net/downloads/skybreak.12766/)
 
 [duel_sloth by Jameson](https://tf2maps.net/downloads/sloth.12710/)
 
-[duel_wheatmill by fossil](https://tf2maps.net/downloads/wheatmill.12878/)
+[duel_wheatmill by d3adfin](https://tf2maps.net/downloads/wheatmill.12878/)
 
-[mctf_badlands by Savva](https://gamebanana.com/mods/151124
+[mctf_badlands by Savva](https://gamebanana.com/mods/151124)
 
 [mctf_doublecross by Savva](https://gamebanana.com/mods/151125)
 
