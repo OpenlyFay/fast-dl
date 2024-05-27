@@ -54,6 +54,8 @@ dm_graymannsfactory by the sun is my son
 
 [dm_miami by yeah right](https://tf2maps.net/downloads/miami.15607/)
 
+[dm_razorpoint by Gravidea](https://tf2maps.net/downloads/razorpoint-open-fortress.17641/)
+
 dm_silhouette_dev2 by the sun is my son
 
 [dm_snarkpit by The Supreme Meme Lord](https://tf2maps.net/downloads/dm_snarkpit.17491/)
