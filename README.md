@@ -40,6 +40,8 @@ dm_amoeba by the sun is my son
 
 [dm_bananabay by Krazy](https://gamebanana.com/mods/308878)
 
+dm_contamination by AlmightyKale
+
 [dm_chateau by Applecakey](https://tf2maps.net/downloads/chateau.12715/)
 
 [dm_decoy by jan](https://gamebanana.com/mods/308687)
