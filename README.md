@@ -32,6 +32,8 @@ Open Fortress
 
 [dm_advent by Greenie](https://tf2maps.net/downloads/dm_advent.16054/)
 
+dm_amoeba by the sun is my son
+
 [dm_apple by Applecakey](https://tf2maps.net/downloads/apple.11921/)
 
 [dm_arid by TheWither031](https://tf2maps.net/downloads/arid.14373/)
@@ -66,7 +68,7 @@ dm_silhouette_dev2 by the sun is my son
 
 [dm_trainyard by jan](https://gamebanana.com/mods/313810)
 
-[duel_amazon by d3adfin(https://tf2maps.net/downloads/amazon.12811/)
+[duel_amazon by d3adfin](https://tf2maps.net/downloads/amazon.12811/)
 
 [duel_apple by AppleCakey](https://tf2maps.net/downloads/apple-duel-edit.11926/)
 
