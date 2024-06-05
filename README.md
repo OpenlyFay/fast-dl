@@ -46,7 +46,7 @@ dm_contamination by AlmightyKale
 
 [dm_decoy by jan](https://gamebanana.com/mods/308687)
 
-dm_frizzlesberg by Ossy Flawol
+[dm_frizzlesberg by Ossy Flawol](https://tf2maps.net/downloads/dm_frizzlesberg.17662/)
 
 dm_graymannsfactory by the sun is my son
 
