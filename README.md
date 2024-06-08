@@ -46,6 +46,8 @@ dm_contamination by AlmightyKale
 
 [dm_decoy by jan](https://gamebanana.com/mods/308687)
 
+[dm_delay by yeah right](https://tf2maps.net/downloads/miami.15607/)
+
 [dm_frizzlesberg by Ossy Flawol](https://tf2maps.net/downloads/dm_frizzlesberg.17662/)
 
 dm_graymannsfactory by the sun is my son
@@ -56,7 +58,7 @@ dm_graymannsfactory by the sun is my son
 
 [dm_metro by Birchly and Eve](https://gamebanana.com/mods/151073)
 
-[dm_miami by yeah right](https://tf2maps.net/downloads/miami.15607/)
+[dm_miami by yeah right](https://tf2maps.net/downloads/delay.17678/)
 
 [dm_razorpoint by Gravidea](https://tf2maps.net/downloads/razorpoint-open-fortress.17641/)
 
