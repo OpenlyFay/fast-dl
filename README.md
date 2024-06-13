@@ -40,8 +40,6 @@ dm_amoeba by the sun is my son
 
 [dm_bananabay by Krazy](https://gamebanana.com/mods/308878)
 
-dm_contamination by AlmightyKale
-
 [dm_chateau by Applecakey](https://tf2maps.net/downloads/chateau.12715/)
 
 [dm_decoy by jan](https://gamebanana.com/mods/308687)
@@ -61,6 +59,8 @@ dm_graymannsfactory by the sun is my son
 [dm_miami by yeah right](https://tf2maps.net/downloads/delay.17678/)
 
 [dm_razorpoint by Gravidea](https://tf2maps.net/downloads/razorpoint-open-fortress.17641/)
+
+dm_reserve by AlmightyKale
 
 dm_silhouette_dev2 by the sun is my son
 
