@@ -2,11 +2,7 @@ This is a fast-download for my servers.
 
 Jabroni Brawl
 
-[jb_albatross by AsG_Alligator](https://gamebanana.com/mods/417586)
-
 [jb_bigbillsfactory by the sun is my son](https://gamebanana.com/mods/421247)
-
-[jb_convoy by AsG_Alligator](https://gamebanana.com/mods/414094)
 
 jb_deconstruction by Ossy Flawol
 
@@ -77,6 +73,8 @@ dm_silhouette_dev2 by the sun is my son
 [duel_apple by AppleCakey](https://tf2maps.net/downloads/apple-duel-edit.11926/)
 
 [duel_contamination by ZaChelbom](https://tf2maps.net/downloads/contamination.15352/)
+
+duel_hopeeradicated by ZoeTbh/LunaZoe
 
 [duel_manncorp by d3adfin](https://tf2maps.net/downloads/mann-corp.13272/)
 
