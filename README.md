@@ -74,7 +74,7 @@ dm_silhouette_dev2 by the sun is my son
 
 [duel_contamination by ZaChelbom](https://tf2maps.net/downloads/contamination.15352/)
 
-duel_hopeeradicated by ZoeTbh/LunaZoe
+[duel_hopeeradicated by ZoeTbh/LunaZoe](https://gamebanana.com/mods/521937)
 
 [duel_manncorp by d3adfin](https://tf2maps.net/downloads/mann-corp.13272/)
 
