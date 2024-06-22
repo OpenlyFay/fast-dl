@@ -80,11 +80,7 @@ dm_villa by [Wendy](https://tf2maps.net/members/wendy.39264/)
 
 [duel_contamination by ZaChelbom](https://tf2maps.net/downloads/contamination.15352/)
 
-<<<<<<< HEAD
-duel_hopeeradicated by LunaZoe/ZoeTbh
-=======
-[duel_hopeeradicated by ZoeTbh/LunaZoe](https://gamebanana.com/mods/521937)
->>>>>>> c2f99d5925e6476607db8edc995b133811140607
+[duel_hopeeradicated by LunaZoe/ZoeTbh](https://gamebanana.com/mods/521937)
 
 [duel_manncorp by d3adfin](https://tf2maps.net/downloads/mann-corp.13272/)
 
@@ -93,12 +89,6 @@ duel_hopeeradicated by LunaZoe/ZoeTbh
 [duel_skybreak by Jameson](https://tf2maps.net/downloads/skybreak.12766/)
 
 [duel_sloth by Jameson](https://tf2maps.net/downloads/sloth.12710/)
-
-[duel_wheatmill by d3adfin](https://tf2maps.net/downloads/wheatmill.12878/)
-
-[mctf_badlands by Savva](https://gamebanana.com/mods/151124)
-
-[mctf_doublecross by Savva](https://gamebanana.com/mods/151125)
 
 [mctf_redplanet by Savva, original by Spipper](https://gamebanana.com/mods/151129)
 
